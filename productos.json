@@ -1,0 +1,7004 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "WiFi Camera Elite",
+      "precio": 799.99,
+      "stock": 3,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 2,
+      "nombre": "Printer Plus",
+      "precio": 499.99,
+      "stock": 137,
+      "categoria": "audio"
+    },
+    {
+      "id": 3,
+      "nombre": "Cooling Pad Pro",
+      "precio": 299.99,
+      "stock": 80,
+      "categoria": "audio"
+    },
+    {
+      "id": 4,
+      "nombre": "USB Hub Smart",
+      "precio": 5.99,
+      "stock": 137,
+      "categoria": "redes"
+    },
+    {
+      "id": 5,
+      "nombre": "Router Advanced",
+      "precio": 199.99,
+      "stock": 75,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 6,
+      "nombre": "Charger Essential",
+      "precio": 19.99,
+      "stock": 228,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 7,
+      "nombre": "Charger Pro",
+      "precio": 29.99,
+      "stock": 108,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 8,
+      "nombre": "Backpack Essential",
+      "precio": 69.99,
+      "stock": 194,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 9,
+      "nombre": "Printer Plus",
+      "precio": 146.07,
+      "stock": 127,
+      "categoria": "redes"
+    },
+    {
+      "id": 10,
+      "nombre": "WiFi Camera Ultra",
+      "precio": 548.06,
+      "stock": 125,
+      "categoria": "periférico"
+    },
+    {
+      "id": 11,
+      "nombre": "Laptop Premium",
+      "precio": 1199.99,
+      "stock": 251,
+      "categoria": "laptop"
+    },
+    {
+      "id": 12,
+      "nombre": "Charger Pro",
+      "precio": 1492.13,
+      "stock": 191,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 13,
+      "nombre": "Headset Max",
+      "precio": 63.23,
+      "stock": 81,
+      "categoria": "periférico"
+    },
+    {
+      "id": 14,
+      "nombre": "Graphics Card Advanced",
+      "precio": 982.64,
+      "stock": 87,
+      "categoria": "laptop"
+    },
+    {
+      "id": 15,
+      "nombre": "Headset Ultra",
+      "precio": 1344.75,
+      "stock": 8,
+      "categoria": "laptop"
+    },
+    {
+      "id": 16,
+      "nombre": "HDD Plus",
+      "precio": 142.65,
+      "stock": 15,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 17,
+      "nombre": "Bluetooth Earbuds Core",
+      "precio": 316.15,
+      "stock": 17,
+      "categoria": "periférico"
+    },
+    {
+      "id": 18,
+      "nombre": "HDD Max",
+      "precio": 1449.95,
+      "stock": 63,
+      "categoria": "laptop"
+    },
+    {
+      "id": 19,
+      "nombre": "Monitor Advanced",
+      "precio": 481.77,
+      "stock": 129,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 20,
+      "nombre": "Mouse Elite",
+      "precio": 491.88,
+      "stock": 247,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 21,
+      "nombre": "Backpack Elite",
+      "precio": 740.23,
+      "stock": 274,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 22,
+      "nombre": "Tablet Essential",
+      "precio": 821.03,
+      "stock": 161,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 23,
+      "nombre": "Tablet Smart",
+      "precio": 1438.89,
+      "stock": 58,
+      "categoria": "periférico"
+    },
+    {
+      "id": 24,
+      "nombre": "Headset Premium",
+      "precio": 946.05,
+      "stock": 90,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 25,
+      "nombre": "Printer Max",
+      "precio": 1020.56,
+      "stock": 265,
+      "categoria": "laptop"
+    },
+    {
+      "id": 26,
+      "nombre": "Speakers Advanced",
+      "precio": 351.79,
+      "stock": 249,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 27,
+      "nombre": "HDD Core",
+      "precio": 1332.66,
+      "stock": 189,
+      "categoria": "laptop"
+    },
+    {
+      "id": 28,
+      "nombre": "Laptop Advanced",
+      "precio": 553.37,
+      "stock": 295,
+      "categoria": "tablets"
+    },
+    {
+      "id": 29,
+      "nombre": "Graphics Card Core",
+      "precio": 231.87,
+      "stock": 246,
+      "categoria": "periférico"
+    },
+    {
+      "id": 30,
+      "nombre": "Bluetooth Earbuds Essential",
+      "precio": 1236.76,
+      "stock": 109,
+      "categoria": "componentes"
+    },
+    {
+      "id": 31,
+      "nombre": "Router Essential",
+      "precio": 756.72,
+      "stock": 103,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 32,
+      "nombre": "SSD Elite",
+      "precio": 26.02,
+      "stock": 67,
+      "categoria": "laptop"
+    },
+    {
+      "id": 33,
+      "nombre": "HDD Elite",
+      "precio": 328.82,
+      "stock": 211,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 34,
+      "nombre": "USB Hub Core",
+      "precio": 736.18,
+      "stock": 181,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 35,
+      "nombre": "Router Essential",
+      "precio": 27.07,
+      "stock": 270,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 36,
+      "nombre": "Backpack Max",
+      "precio": 1187.41,
+      "stock": 71,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 37,
+      "nombre": "Cooling Pad Essential",
+      "precio": 1081.64,
+      "stock": 274,
+      "categoria": "periférico"
+    },
+    {
+      "id": 38,
+      "nombre": "HDD Premium",
+      "precio": 782.27,
+      "stock": 13,
+      "categoria": "periférico"
+    },
+    {
+      "id": 39,
+      "nombre": "Bluetooth Earbuds Smart",
+      "precio": 144.28,
+      "stock": 101,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 40,
+      "nombre": "Tablet Premium",
+      "precio": 719.82,
+      "stock": 103,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 41,
+      "nombre": "Speakers Smart",
+      "precio": 740.42,
+      "stock": 200,
+      "categoria": "audio"
+    },
+    {
+      "id": 42,
+      "nombre": "Backpack Max",
+      "precio": 847.7,
+      "stock": 182,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 43,
+      "nombre": "Mouse Max",
+      "precio": 728.24,
+      "stock": 294,
+      "categoria": "laptop"
+    },
+    {
+      "id": 44,
+      "nombre": "WiFi Camera Smart",
+      "precio": 1101.44,
+      "stock": 39,
+      "categoria": "componentes"
+    },
+    {
+      "id": 45,
+      "nombre": "Webcam Pro",
+      "precio": 324.75,
+      "stock": 204,
+      "categoria": "componentes"
+    },
+    {
+      "id": 46,
+      "nombre": "Bluetooth Earbuds Essential",
+      "precio": 1107.1,
+      "stock": 135,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 47,
+      "nombre": "Mouse Max",
+      "precio": 448.48,
+      "stock": 268,
+      "categoria": "componentes"
+    },
+    {
+      "id": 48,
+      "nombre": "WiFi Camera Premium",
+      "precio": 1360.89,
+      "stock": 122,
+      "categoria": "laptop"
+    },
+    {
+      "id": 49,
+      "nombre": "SSD Smart",
+      "precio": 1385.79,
+      "stock": 227,
+      "categoria": "periférico"
+    },
+    {
+      "id": 50,
+      "nombre": "HDD Elite",
+      "precio": 1464.46,
+      "stock": 234,
+      "categoria": "laptop"
+    },
+    {
+      "id": 51,
+      "nombre": "WiFi Camera Max",
+      "precio": 71.25,
+      "stock": 33,
+      "categoria": "periférico"
+    },
+    {
+      "id": 52,
+      "nombre": "Switch Pro",
+      "precio": 133.9,
+      "stock": 205,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 53,
+      "nombre": "Cooling Pad Plus",
+      "precio": 1280.71,
+      "stock": 196,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 54,
+      "nombre": "Cooling Pad Elite",
+      "precio": 774.26,
+      "stock": 128,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 55,
+      "nombre": "Mouse Elite",
+      "precio": 280.65,
+      "stock": 34,
+      "categoria": "tablets"
+    },
+    {
+      "id": 56,
+      "nombre": "USB Hub Advanced",
+      "precio": 322.52,
+      "stock": 70,
+      "categoria": "redes"
+    },
+    {
+      "id": 57,
+      "nombre": "SSD Max",
+      "precio": 330.1,
+      "stock": 90,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 58,
+      "nombre": "HDD Elite",
+      "precio": 1373.84,
+      "stock": 66,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 59,
+      "nombre": "SSD Core",
+      "precio": 124.46,
+      "stock": 210,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 60,
+      "nombre": "Bluetooth Earbuds Plus",
+      "precio": 627.2,
+      "stock": 232,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 61,
+      "nombre": "Backpack Pro",
+      "precio": 1151.33,
+      "stock": 154,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 62,
+      "nombre": "WiFi Camera Ultra",
+      "precio": 1160.88,
+      "stock": 227,
+      "categoria": "redes"
+    },
+    {
+      "id": 63,
+      "nombre": "Headset Essential",
+      "precio": 1325.78,
+      "stock": 115,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 64,
+      "nombre": "Webcam Essential",
+      "precio": 755.33,
+      "stock": 196,
+      "categoria": "tablets"
+    },
+    {
+      "id": 65,
+      "nombre": "Switch Ultra",
+      "precio": 1323.78,
+      "stock": 138,
+      "categoria": "componentes"
+    },
+    {
+      "id": 66,
+      "nombre": "Tablet Essential",
+      "precio": 1453.23,
+      "stock": 131,
+      "categoria": "redes"
+    },
+    {
+      "id": 67,
+      "nombre": "Laptop Advanced",
+      "precio": 364.74,
+      "stock": 61,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 68,
+      "nombre": "Router Ultra",
+      "precio": 1044.14,
+      "stock": 253,
+      "categoria": "componentes"
+    },
+    {
+      "id": 69,
+      "nombre": "Speakers Smart",
+      "precio": 310.96,
+      "stock": 273,
+      "categoria": "tablets"
+    },
+    {
+      "id": 70,
+      "nombre": "HDD Smart",
+      "precio": 717.71,
+      "stock": 281,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 71,
+      "nombre": "SSD Premium",
+      "precio": 358.07,
+      "stock": 63,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 72,
+      "nombre": "Keyboard Premium",
+      "precio": 40.17,
+      "stock": 290,
+      "categoria": "laptop"
+    },
+    {
+      "id": 73,
+      "nombre": "Mouse Advanced",
+      "precio": 1495.14,
+      "stock": 23,
+      "categoria": "componentes"
+    },
+    {
+      "id": 74,
+      "nombre": "Speakers Core",
+      "precio": 1305.83,
+      "stock": 278,
+      "categoria": "redes"
+    },
+    {
+      "id": 75,
+      "nombre": "Backpack Essential",
+      "precio": 1191.4,
+      "stock": 131,
+      "categoria": "tablets"
+    },
+    {
+      "id": 76,
+      "nombre": "Charger Pro",
+      "precio": 641.7,
+      "stock": 72,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 77,
+      "nombre": "Monitor Premium",
+      "precio": 866.94,
+      "stock": 223,
+      "categoria": "componentes"
+    },
+    {
+      "id": 78,
+      "nombre": "Printer Premium",
+      "precio": 558.83,
+      "stock": 95,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 79,
+      "nombre": "Cooling Pad Ultra",
+      "precio": 1376.34,
+      "stock": 92,
+      "categoria": "redes"
+    },
+    {
+      "id": 80,
+      "nombre": "Router Ultra",
+      "precio": 1179.58,
+      "stock": 283,
+      "categoria": "tablets"
+    },
+    {
+      "id": 81,
+      "nombre": "HDD Ultra",
+      "precio": 859.11,
+      "stock": 158,
+      "categoria": "componentes"
+    },
+    {
+      "id": 82,
+      "nombre": "Monitor Ultra",
+      "precio": 878.91,
+      "stock": 135,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 83,
+      "nombre": "Backpack Max",
+      "precio": 300.36,
+      "stock": 114,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 84,
+      "nombre": "Headset Plus",
+      "precio": 1176.72,
+      "stock": 175,
+      "categoria": "laptop"
+    },
+    {
+      "id": 85,
+      "nombre": "Monitor Plus",
+      "precio": 601.61,
+      "stock": 278,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 86,
+      "nombre": "Graphics Card Essential",
+      "precio": 1091.25,
+      "stock": 113,
+      "categoria": "laptop"
+    },
+    {
+      "id": 87,
+      "nombre": "SSD Core",
+      "precio": 765.81,
+      "stock": 277,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 88,
+      "nombre": "Backpack Essential",
+      "precio": 780.2,
+      "stock": 205,
+      "categoria": "tablets"
+    },
+    {
+      "id": 89,
+      "nombre": "USB Hub Smart",
+      "precio": 381.58,
+      "stock": 23,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 90,
+      "nombre": "HDD Smart",
+      "precio": 188.98,
+      "stock": 114,
+      "categoria": "laptop"
+    },
+    {
+      "id": 91,
+      "nombre": "Laptop Advanced",
+      "precio": 408.86,
+      "stock": 106,
+      "categoria": "laptop"
+    },
+    {
+      "id": 92,
+      "nombre": "WiFi Camera Elite",
+      "precio": 159.09,
+      "stock": 29,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 93,
+      "nombre": "Backpack Core",
+      "precio": 1304.35,
+      "stock": 62,
+      "categoria": "laptop"
+    },
+    {
+      "id": 94,
+      "nombre": "Laptop Smart",
+      "precio": 927.19,
+      "stock": 203,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 95,
+      "nombre": "Graphics Card Premium",
+      "precio": 146.16,
+      "stock": 37,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 96,
+      "nombre": "Speakers Plus",
+      "precio": 67.71,
+      "stock": 104,
+      "categoria": "periférico"
+    },
+    {
+      "id": 97,
+      "nombre": "Backpack Essential",
+      "precio": 146.41,
+      "stock": 269,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 98,
+      "nombre": "Switch Premium",
+      "precio": 700.27,
+      "stock": 103,
+      "categoria": "tablets"
+    },
+    {
+      "id": 99,
+      "nombre": "USB Hub Essential",
+      "precio": 1102.31,
+      "stock": 10,
+      "categoria": "componentes"
+    },
+    {
+      "id": 100,
+      "nombre": "Bluetooth Earbuds Smart",
+      "precio": 275.59,
+      "stock": 140,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 101,
+      "nombre": "Webcam Max",
+      "precio": 331.05,
+      "stock": 220,
+      "categoria": "audio"
+    },
+    {
+      "id": 102,
+      "nombre": "Headset Premium",
+      "precio": 1451.46,
+      "stock": 45,
+      "categoria": "periférico"
+    },
+    {
+      "id": 103,
+      "nombre": "Charger Plus",
+      "precio": 1104.89,
+      "stock": 10,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 104,
+      "nombre": "Bluetooth Earbuds Premium",
+      "precio": 34.29,
+      "stock": 197,
+      "categoria": "componentes"
+    },
+    {
+      "id": 105,
+      "nombre": "USB Hub Elite",
+      "precio": 1126.63,
+      "stock": 118,
+      "categoria": "redes"
+    },
+    {
+      "id": 106,
+      "nombre": "WiFi Camera Elite",
+      "precio": 880.84,
+      "stock": 16,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 107,
+      "nombre": "Headset Premium",
+      "precio": 1160.21,
+      "stock": 255,
+      "categoria": "audio"
+    },
+    {
+      "id": 108,
+      "nombre": "HDD Smart",
+      "precio": 430.66,
+      "stock": 101,
+      "categoria": "laptop"
+    },
+    {
+      "id": 109,
+      "nombre": "SSD Premium",
+      "precio": 771.41,
+      "stock": 25,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 110,
+      "nombre": "Charger Premium",
+      "precio": 807.14,
+      "stock": 181,
+      "categoria": "componentes"
+    },
+    {
+      "id": 111,
+      "nombre": "Monitor Ultra",
+      "precio": 279.17,
+      "stock": 72,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 112,
+      "nombre": "Charger Core",
+      "precio": 871.44,
+      "stock": 217,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 113,
+      "nombre": "USB Hub Advanced",
+      "precio": 328.2,
+      "stock": 162,
+      "categoria": "redes"
+    },
+    {
+      "id": 114,
+      "nombre": "SSD Pro",
+      "precio": 202.48,
+      "stock": 9,
+      "categoria": "redes"
+    },
+    {
+      "id": 115,
+      "nombre": "USB Hub Premium",
+      "precio": 1414.18,
+      "stock": 12,
+      "categoria": "redes"
+    },
+    {
+      "id": 116,
+      "nombre": "Switch Premium",
+      "precio": 1090.86,
+      "stock": 247,
+      "categoria": "periférico"
+    },
+    {
+      "id": 117,
+      "nombre": "Webcam Plus",
+      "precio": 622.89,
+      "stock": 178,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 118,
+      "nombre": "Graphics Card Max",
+      "precio": 745.01,
+      "stock": 87,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 119,
+      "nombre": "Webcam Advanced",
+      "precio": 1039.5,
+      "stock": 140,
+      "categoria": "redes"
+    },
+    {
+      "id": 120,
+      "nombre": "Graphics Card Max",
+      "precio": 1258.74,
+      "stock": 280,
+      "categoria": "componentes"
+    },
+    {
+      "id": 121,
+      "nombre": "Keyboard Advanced",
+      "precio": 289.35,
+      "stock": 22,
+      "categoria": "audio"
+    },
+    {
+      "id": 122,
+      "nombre": "Laptop Core",
+      "precio": 996.6,
+      "stock": 233,
+      "categoria": "audio"
+    },
+    {
+      "id": 123,
+      "nombre": "Headset Premium",
+      "precio": 447.45,
+      "stock": 193,
+      "categoria": "audio"
+    },
+    {
+      "id": 124,
+      "nombre": "Printer Plus",
+      "precio": 1037.39,
+      "stock": 54,
+      "categoria": "tablets"
+    },
+    {
+      "id": 125,
+      "nombre": "Cooling Pad Smart",
+      "precio": 563.9,
+      "stock": 21,
+      "categoria": "redes"
+    },
+    {
+      "id": 126,
+      "nombre": "Bluetooth Earbuds Pro",
+      "precio": 107.87,
+      "stock": 11,
+      "categoria": "periférico"
+    },
+    {
+      "id": 127,
+      "nombre": "Headset Smart",
+      "precio": 919.11,
+      "stock": 202,
+      "categoria": "periférico"
+    },
+    {
+      "id": 128,
+      "nombre": "Speakers Pro",
+      "precio": 379.82,
+      "stock": 122,
+      "categoria": "periférico"
+    },
+    {
+      "id": 129,
+      "nombre": "Keyboard Max",
+      "precio": 1368.48,
+      "stock": 197,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 130,
+      "nombre": "Switch Premium",
+      "precio": 427.18,
+      "stock": 12,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 131,
+      "nombre": "Bluetooth Earbuds Advanced",
+      "precio": 955.29,
+      "stock": 74,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 132,
+      "nombre": "SSD Elite",
+      "precio": 117.14,
+      "stock": 228,
+      "categoria": "redes"
+    },
+    {
+      "id": 133,
+      "nombre": "Graphics Card Premium",
+      "precio": 1486.52,
+      "stock": 101,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 134,
+      "nombre": "Laptop Advanced",
+      "precio": 993.16,
+      "stock": 131,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 135,
+      "nombre": "Charger Advanced",
+      "precio": 571.09,
+      "stock": 273,
+      "categoria": "laptop"
+    },
+    {
+      "id": 136,
+      "nombre": "Tablet Premium",
+      "precio": 1441.3,
+      "stock": 298,
+      "categoria": "audio"
+    },
+    {
+      "id": 137,
+      "nombre": "Tablet Premium",
+      "precio": 85.92,
+      "stock": 203,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 138,
+      "nombre": "Mouse Ultra",
+      "precio": 1343.46,
+      "stock": 4,
+      "categoria": "componentes"
+    },
+    {
+      "id": 139,
+      "nombre": "WiFi Camera Max",
+      "precio": 314.76,
+      "stock": 293,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 140,
+      "nombre": "Speakers Core",
+      "precio": 45.62,
+      "stock": 214,
+      "categoria": "audio"
+    },
+    {
+      "id": 141,
+      "nombre": "Printer Smart",
+      "precio": 1496.99,
+      "stock": 43,
+      "categoria": "tablets"
+    },
+    {
+      "id": 142,
+      "nombre": "Tablet Smart",
+      "precio": 43.72,
+      "stock": 107,
+      "categoria": "audio"
+    },
+    {
+      "id": 143,
+      "nombre": "Monitor Pro",
+      "precio": 388.67,
+      "stock": 87,
+      "categoria": "componentes"
+    },
+    {
+      "id": 144,
+      "nombre": "Mouse Elite",
+      "precio": 1220.07,
+      "stock": 22,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 145,
+      "nombre": "Speakers Essential",
+      "precio": 1354.05,
+      "stock": 27,
+      "categoria": "audio"
+    },
+    {
+      "id": 146,
+      "nombre": "Speakers Elite",
+      "precio": 1250.23,
+      "stock": 253,
+      "categoria": "periférico"
+    },
+    {
+      "id": 147,
+      "nombre": "USB Hub Essential",
+      "precio": 445.36,
+      "stock": 80,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 148,
+      "nombre": "HDD Advanced",
+      "precio": 941.77,
+      "stock": 180,
+      "categoria": "redes"
+    },
+    {
+      "id": 149,
+      "nombre": "Speakers Premium",
+      "precio": 1112.06,
+      "stock": 8,
+      "categoria": "tablets"
+    },
+    {
+      "id": 150,
+      "nombre": "Charger Max",
+      "precio": 119.12,
+      "stock": 197,
+      "categoria": "periférico"
+    },
+    {
+      "id": 151,
+      "nombre": "Graphics Card Pro",
+      "precio": 1381.92,
+      "stock": 275,
+      "categoria": "redes"
+    },
+    {
+      "id": 152,
+      "nombre": "Laptop Smart",
+      "precio": 133.64,
+      "stock": 159,
+      "categoria": "redes"
+    },
+    {
+      "id": 153,
+      "nombre": "Mouse Elite",
+      "precio": 644.17,
+      "stock": 278,
+      "categoria": "redes"
+    },
+    {
+      "id": 154,
+      "nombre": "Bluetooth Earbuds Smart",
+      "precio": 980.14,
+      "stock": 223,
+      "categoria": "audio"
+    },
+    {
+      "id": 155,
+      "nombre": "Headset Max",
+      "precio": 921.23,
+      "stock": 47,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 156,
+      "nombre": "HDD Plus",
+      "precio": 51.11,
+      "stock": 154,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 157,
+      "nombre": "Webcam Smart",
+      "precio": 1030.32,
+      "stock": 123,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 158,
+      "nombre": "Printer Elite",
+      "precio": 1332.38,
+      "stock": 151,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 159,
+      "nombre": "USB Hub Essential",
+      "precio": 1197.63,
+      "stock": 140,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 160,
+      "nombre": "Cooling Pad Advanced",
+      "precio": 1132.3,
+      "stock": 28,
+      "categoria": "audio"
+    },
+    {
+      "id": 161,
+      "nombre": "Bluetooth Earbuds Core",
+      "precio": 1488.0,
+      "stock": 81,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 162,
+      "nombre": "Webcam Plus",
+      "precio": 1135.63,
+      "stock": 227,
+      "categoria": "tablets"
+    },
+    {
+      "id": 163,
+      "nombre": "Cooling Pad Elite",
+      "precio": 1068.88,
+      "stock": 265,
+      "categoria": "redes"
+    },
+    {
+      "id": 164,
+      "nombre": "Bluetooth Earbuds Ultra",
+      "precio": 97.62,
+      "stock": 108,
+      "categoria": "redes"
+    },
+    {
+      "id": 165,
+      "nombre": "Cooling Pad Max",
+      "precio": 1488.29,
+      "stock": 185,
+      "categoria": "componentes"
+    },
+    {
+      "id": 166,
+      "nombre": "Bluetooth Earbuds Essential",
+      "precio": 1289.35,
+      "stock": 2,
+      "categoria": "componentes"
+    },
+    {
+      "id": 167,
+      "nombre": "WiFi Camera Premium",
+      "precio": 689.99,
+      "stock": 121,
+      "categoria": "audio"
+    },
+    {
+      "id": 168,
+      "nombre": "USB Hub Elite",
+      "precio": 1284.24,
+      "stock": 49,
+      "categoria": "audio"
+    },
+    {
+      "id": 169,
+      "nombre": "Mouse Plus",
+      "precio": 1472.69,
+      "stock": 12,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 170,
+      "nombre": "Tablet Ultra",
+      "precio": 197.24,
+      "stock": 60,
+      "categoria": "laptop"
+    },
+    {
+      "id": 171,
+      "nombre": "Switch Advanced",
+      "precio": 1074.98,
+      "stock": 262,
+      "categoria": "laptop"
+    },
+    {
+      "id": 172,
+      "nombre": "Backpack Essential",
+      "precio": 194.06,
+      "stock": 71,
+      "categoria": "audio"
+    },
+    {
+      "id": 173,
+      "nombre": "HDD Elite",
+      "precio": 246.83,
+      "stock": 9,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 174,
+      "nombre": "HDD Ultra",
+      "precio": 1224.41,
+      "stock": 266,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 175,
+      "nombre": "USB Hub Ultra",
+      "precio": 1123.02,
+      "stock": 244,
+      "categoria": "laptop"
+    },
+    {
+      "id": 176,
+      "nombre": "Speakers Advanced",
+      "precio": 393.36,
+      "stock": 62,
+      "categoria": "periférico"
+    },
+    {
+      "id": 177,
+      "nombre": "USB Hub Smart",
+      "precio": 56.63,
+      "stock": 232,
+      "categoria": "periférico"
+    },
+    {
+      "id": 178,
+      "nombre": "Graphics Card Premium",
+      "precio": 950.14,
+      "stock": 164,
+      "categoria": "periférico"
+    },
+    {
+      "id": 179,
+      "nombre": "Speakers Premium",
+      "precio": 1144.0,
+      "stock": 236,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 180,
+      "nombre": "Tablet Max",
+      "precio": 981.86,
+      "stock": 206,
+      "categoria": "componentes"
+    },
+    {
+      "id": 181,
+      "nombre": "Cooling Pad Max",
+      "precio": 650.86,
+      "stock": 180,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 182,
+      "nombre": "HDD Max",
+      "precio": 854.12,
+      "stock": 239,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 183,
+      "nombre": "Headset Plus",
+      "precio": 64.48,
+      "stock": 116,
+      "categoria": "audio"
+    },
+    {
+      "id": 184,
+      "nombre": "Switch Smart",
+      "precio": 863.36,
+      "stock": 252,
+      "categoria": "periférico"
+    },
+    {
+      "id": 185,
+      "nombre": "Router Elite",
+      "precio": 794.68,
+      "stock": 48,
+      "categoria": "componentes"
+    },
+    {
+      "id": 186,
+      "nombre": "Mouse Ultra",
+      "precio": 1150.22,
+      "stock": 282,
+      "categoria": "tablets"
+    },
+    {
+      "id": 187,
+      "nombre": "Cooling Pad Ultra",
+      "precio": 1239.96,
+      "stock": 82,
+      "categoria": "periférico"
+    },
+    {
+      "id": 188,
+      "nombre": "Keyboard Advanced",
+      "precio": 818.56,
+      "stock": 296,
+      "categoria": "laptop"
+    },
+    {
+      "id": 189,
+      "nombre": "Headset Max",
+      "precio": 1330.59,
+      "stock": 235,
+      "categoria": "audio"
+    },
+    {
+      "id": 190,
+      "nombre": "Mouse Pro",
+      "precio": 188.69,
+      "stock": 69,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 191,
+      "nombre": "Keyboard Elite",
+      "precio": 1321.5,
+      "stock": 85,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 192,
+      "nombre": "Backpack Core",
+      "precio": 526.11,
+      "stock": 195,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 193,
+      "nombre": "Laptop Elite",
+      "precio": 1061.01,
+      "stock": 113,
+      "categoria": "periférico"
+    },
+    {
+      "id": 194,
+      "nombre": "Router Plus",
+      "precio": 1365.08,
+      "stock": 50,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 195,
+      "nombre": "Bluetooth Earbuds Pro",
+      "precio": 1463.85,
+      "stock": 104,
+      "categoria": "tablets"
+    },
+    {
+      "id": 196,
+      "nombre": "Speakers Pro",
+      "precio": 616.73,
+      "stock": 277,
+      "categoria": "audio"
+    },
+    {
+      "id": 197,
+      "nombre": "Bluetooth Earbuds Max",
+      "precio": 1470.1,
+      "stock": 123,
+      "categoria": "audio"
+    },
+    {
+      "id": 198,
+      "nombre": "Headset Plus",
+      "precio": 911.08,
+      "stock": 243,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 199,
+      "nombre": "Bluetooth Earbuds Pro",
+      "precio": 70.41,
+      "stock": 134,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 200,
+      "nombre": "Speakers Essential",
+      "precio": 1186.39,
+      "stock": 25,
+      "categoria": "audio"
+    },
+    {
+      "id": 201,
+      "nombre": "Headset Advanced",
+      "precio": 479.71,
+      "stock": 90,
+      "categoria": "redes"
+    },
+    {
+      "id": 202,
+      "nombre": "Charger Pro",
+      "precio": 881.49,
+      "stock": 17,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 203,
+      "nombre": "Graphics Card Pro",
+      "precio": 1334.15,
+      "stock": 210,
+      "categoria": "laptop"
+    },
+    {
+      "id": 204,
+      "nombre": "Backpack Premium",
+      "precio": 1213.7,
+      "stock": 126,
+      "categoria": "tablets"
+    },
+    {
+      "id": 205,
+      "nombre": "Speakers Elite",
+      "precio": 444.18,
+      "stock": 88,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 206,
+      "nombre": "SSD Smart",
+      "precio": 1259.94,
+      "stock": 261,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 207,
+      "nombre": "Switch Essential",
+      "precio": 842.31,
+      "stock": 91,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 208,
+      "nombre": "USB Hub Advanced",
+      "precio": 603.07,
+      "stock": 169,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 209,
+      "nombre": "Charger Essential",
+      "precio": 602.5,
+      "stock": 163,
+      "categoria": "laptop"
+    },
+    {
+      "id": 210,
+      "nombre": "Printer Max",
+      "precio": 436.35,
+      "stock": 221,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 211,
+      "nombre": "Graphics Card Elite",
+      "precio": 240.55,
+      "stock": 129,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 212,
+      "nombre": "Mouse Ultra",
+      "precio": 226.73,
+      "stock": 265,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 213,
+      "nombre": "Switch Premium",
+      "precio": 20.01,
+      "stock": 87,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 214,
+      "nombre": "Speakers Core",
+      "precio": 261.61,
+      "stock": 7,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 215,
+      "nombre": "Monitor Premium",
+      "precio": 952.52,
+      "stock": 243,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 216,
+      "nombre": "Headset Max",
+      "precio": 599.66,
+      "stock": 209,
+      "categoria": "periférico"
+    },
+    {
+      "id": 217,
+      "nombre": "SSD Elite",
+      "precio": 363.47,
+      "stock": 174,
+      "categoria": "componentes"
+    },
+    {
+      "id": 218,
+      "nombre": "Charger Core",
+      "precio": 195.08,
+      "stock": 61,
+      "categoria": "componentes"
+    },
+    {
+      "id": 219,
+      "nombre": "SSD Plus",
+      "precio": 1298.32,
+      "stock": 248,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 220,
+      "nombre": "Cooling Pad Ultra",
+      "precio": 225.02,
+      "stock": 188,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 221,
+      "nombre": "SSD Ultra",
+      "precio": 1188.59,
+      "stock": 122,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 222,
+      "nombre": "Tablet Pro",
+      "precio": 120.27,
+      "stock": 110,
+      "categoria": "laptop"
+    },
+    {
+      "id": 223,
+      "nombre": "Backpack Core",
+      "precio": 1317.71,
+      "stock": 298,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 224,
+      "nombre": "Headset Plus",
+      "precio": 1499.95,
+      "stock": 59,
+      "categoria": "audio"
+    },
+    {
+      "id": 225,
+      "nombre": "Graphics Card Plus",
+      "precio": 832.83,
+      "stock": 204,
+      "categoria": "laptop"
+    },
+    {
+      "id": 226,
+      "nombre": "Tablet Smart",
+      "precio": 1028.7,
+      "stock": 7,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 227,
+      "nombre": "Laptop Advanced",
+      "precio": 709.38,
+      "stock": 119,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 228,
+      "nombre": "Keyboard Premium",
+      "precio": 1020.04,
+      "stock": 142,
+      "categoria": "redes"
+    },
+    {
+      "id": 229,
+      "nombre": "WiFi Camera Plus",
+      "precio": 351.35,
+      "stock": 197,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 230,
+      "nombre": "Headset Ultra",
+      "precio": 1059.99,
+      "stock": 47,
+      "categoria": "tablets"
+    },
+    {
+      "id": 231,
+      "nombre": "Bluetooth Earbuds Advanced",
+      "precio": 1290.88,
+      "stock": 118,
+      "categoria": "periférico"
+    },
+    {
+      "id": 232,
+      "nombre": "SSD Plus",
+      "precio": 1460.04,
+      "stock": 33,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 233,
+      "nombre": "Headset Pro",
+      "precio": 1244.59,
+      "stock": 199,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 234,
+      "nombre": "Headset Ultra",
+      "precio": 519.58,
+      "stock": 12,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 235,
+      "nombre": "Mouse Plus",
+      "precio": 1117.98,
+      "stock": 153,
+      "categoria": "redes"
+    },
+    {
+      "id": 236,
+      "nombre": "Charger Pro",
+      "precio": 1366.38,
+      "stock": 73,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 237,
+      "nombre": "Speakers Plus",
+      "precio": 1162.84,
+      "stock": 91,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 238,
+      "nombre": "WiFi Camera Advanced",
+      "precio": 1076.32,
+      "stock": 96,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 239,
+      "nombre": "Router Plus",
+      "precio": 1110.21,
+      "stock": 92,
+      "categoria": "redes"
+    },
+    {
+      "id": 240,
+      "nombre": "Mouse Pro",
+      "precio": 1282.71,
+      "stock": 141,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 241,
+      "nombre": "SSD Elite",
+      "precio": 765.51,
+      "stock": 172,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 242,
+      "nombre": "Charger Premium",
+      "precio": 801.84,
+      "stock": 275,
+      "categoria": "tablets"
+    },
+    {
+      "id": 243,
+      "nombre": "Tablet Elite",
+      "precio": 206.85,
+      "stock": 93,
+      "categoria": "componentes"
+    },
+    {
+      "id": 244,
+      "nombre": "Router Core",
+      "precio": 984.94,
+      "stock": 137,
+      "categoria": "audio"
+    },
+    {
+      "id": 245,
+      "nombre": "WiFi Camera Advanced",
+      "precio": 1071.06,
+      "stock": 258,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 246,
+      "nombre": "Router Essential",
+      "precio": 964.87,
+      "stock": 41,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 247,
+      "nombre": "Speakers Core",
+      "precio": 165.63,
+      "stock": 18,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 248,
+      "nombre": "Printer Pro",
+      "precio": 670.65,
+      "stock": 238,
+      "categoria": "audio"
+    },
+    {
+      "id": 249,
+      "nombre": "Tablet Premium",
+      "precio": 1361.24,
+      "stock": 25,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 250,
+      "nombre": "Backpack Smart",
+      "precio": 1017.91,
+      "stock": 54,
+      "categoria": "componentes"
+    },
+    {
+      "id": 251,
+      "nombre": "Cooling Pad Ultra",
+      "precio": 1161.93,
+      "stock": 170,
+      "categoria": "tablets"
+    },
+    {
+      "id": 252,
+      "nombre": "Bluetooth Earbuds Max",
+      "precio": 434.64,
+      "stock": 6,
+      "categoria": "audio"
+    },
+    {
+      "id": 253,
+      "nombre": "Switch Ultra",
+      "precio": 1053.85,
+      "stock": 258,
+      "categoria": "laptop"
+    },
+    {
+      "id": 254,
+      "nombre": "Keyboard Plus",
+      "precio": 1038.08,
+      "stock": 113,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 255,
+      "nombre": "Printer Smart",
+      "precio": 649.44,
+      "stock": 32,
+      "categoria": "periférico"
+    },
+    {
+      "id": 256,
+      "nombre": "Printer Premium",
+      "precio": 285.86,
+      "stock": 8,
+      "categoria": "periférico"
+    },
+    {
+      "id": 257,
+      "nombre": "HDD Smart",
+      "precio": 390.8,
+      "stock": 180,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 258,
+      "nombre": "Laptop Core",
+      "precio": 636.44,
+      "stock": 72,
+      "categoria": "tablets"
+    },
+    {
+      "id": 259,
+      "nombre": "SSD Pro",
+      "precio": 318.12,
+      "stock": 148,
+      "categoria": "laptop"
+    },
+    {
+      "id": 260,
+      "nombre": "Headset Essential",
+      "precio": 888.35,
+      "stock": 104,
+      "categoria": "redes"
+    },
+    {
+      "id": 261,
+      "nombre": "Speakers Core",
+      "precio": 1458.34,
+      "stock": 292,
+      "categoria": "periférico"
+    },
+    {
+      "id": 262,
+      "nombre": "SSD Ultra",
+      "precio": 582.03,
+      "stock": 56,
+      "categoria": "audio"
+    },
+    {
+      "id": 263,
+      "nombre": "Headset Core",
+      "precio": 741.76,
+      "stock": 273,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 264,
+      "nombre": "Tablet Smart",
+      "precio": 443.31,
+      "stock": 104,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 265,
+      "nombre": "Bluetooth Earbuds Core",
+      "precio": 862.05,
+      "stock": 272,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 266,
+      "nombre": "WiFi Camera Ultra",
+      "precio": 749.17,
+      "stock": 223,
+      "categoria": "laptop"
+    },
+    {
+      "id": 267,
+      "nombre": "Backpack Advanced",
+      "precio": 1423.89,
+      "stock": 251,
+      "categoria": "periférico"
+    },
+    {
+      "id": 268,
+      "nombre": "Monitor Premium",
+      "precio": 636.45,
+      "stock": 146,
+      "categoria": "audio"
+    },
+    {
+      "id": 269,
+      "nombre": "Mouse Pro",
+      "precio": 301.24,
+      "stock": 269,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 270,
+      "nombre": "Bluetooth Earbuds Core",
+      "precio": 1133.85,
+      "stock": 146,
+      "categoria": "laptop"
+    },
+    {
+      "id": 271,
+      "nombre": "Printer Pro",
+      "precio": 1022.59,
+      "stock": 35,
+      "categoria": "periférico"
+    },
+    {
+      "id": 272,
+      "nombre": "Printer Max",
+      "precio": 54.4,
+      "stock": 114,
+      "categoria": "redes"
+    },
+    {
+      "id": 273,
+      "nombre": "Graphics Card Essential",
+      "precio": 329.91,
+      "stock": 216,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 274,
+      "nombre": "Tablet Core",
+      "precio": 351.07,
+      "stock": 210,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 275,
+      "nombre": "Speakers Advanced",
+      "precio": 675.37,
+      "stock": 80,
+      "categoria": "periférico"
+    },
+    {
+      "id": 276,
+      "nombre": "Webcam Smart",
+      "precio": 1227.51,
+      "stock": 125,
+      "categoria": "componentes"
+    },
+    {
+      "id": 277,
+      "nombre": "Charger Elite",
+      "precio": 69.41,
+      "stock": 29,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 278,
+      "nombre": "Laptop Elite",
+      "precio": 34.63,
+      "stock": 28,
+      "categoria": "audio"
+    },
+    {
+      "id": 279,
+      "nombre": "WiFi Camera Max",
+      "precio": 334.55,
+      "stock": 221,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 280,
+      "nombre": "Mouse Max",
+      "precio": 262.84,
+      "stock": 184,
+      "categoria": "tablets"
+    },
+    {
+      "id": 281,
+      "nombre": "WiFi Camera Ultra",
+      "precio": 507.71,
+      "stock": 81,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 282,
+      "nombre": "Backpack Max",
+      "precio": 1143.89,
+      "stock": 211,
+      "categoria": "componentes"
+    },
+    {
+      "id": 283,
+      "nombre": "Cooling Pad Pro",
+      "precio": 1475.39,
+      "stock": 97,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 284,
+      "nombre": "HDD Advanced",
+      "precio": 1388.09,
+      "stock": 287,
+      "categoria": "audio"
+    },
+    {
+      "id": 285,
+      "nombre": "Keyboard Essential",
+      "precio": 381.87,
+      "stock": 72,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 286,
+      "nombre": "Speakers Max",
+      "precio": 789.17,
+      "stock": 241,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 287,
+      "nombre": "SSD Max",
+      "precio": 1439.06,
+      "stock": 266,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 288,
+      "nombre": "Backpack Core",
+      "precio": 1238.11,
+      "stock": 178,
+      "categoria": "laptop"
+    },
+    {
+      "id": 289,
+      "nombre": "Backpack Premium",
+      "precio": 513.26,
+      "stock": 274,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 290,
+      "nombre": "Monitor Essential",
+      "precio": 1243.79,
+      "stock": 184,
+      "categoria": "componentes"
+    },
+    {
+      "id": 291,
+      "nombre": "SSD Essential",
+      "precio": 1086.67,
+      "stock": 17,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 292,
+      "nombre": "Laptop Premium",
+      "precio": 212.98,
+      "stock": 182,
+      "categoria": "periférico"
+    },
+    {
+      "id": 293,
+      "nombre": "Printer Ultra",
+      "precio": 1055.22,
+      "stock": 130,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 294,
+      "nombre": "Monitor Essential",
+      "precio": 225.76,
+      "stock": 194,
+      "categoria": "audio"
+    },
+    {
+      "id": 295,
+      "nombre": "Printer Core",
+      "precio": 514.78,
+      "stock": 279,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 296,
+      "nombre": "Backpack Smart",
+      "precio": 692.56,
+      "stock": 84,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 297,
+      "nombre": "Switch Max",
+      "precio": 951.81,
+      "stock": 61,
+      "categoria": "tablets"
+    },
+    {
+      "id": 298,
+      "nombre": "Speakers Elite",
+      "precio": 744.37,
+      "stock": 268,
+      "categoria": "periférico"
+    },
+    {
+      "id": 299,
+      "nombre": "Monitor Elite",
+      "precio": 599.99,
+      "stock": 119,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 300,
+      "nombre": "Cooling Pad Core",
+      "precio": 1165.61,
+      "stock": 56,
+      "categoria": "componentes"
+    },
+    {
+      "id": 301,
+      "nombre": "Graphics Card Core",
+      "precio": 410.86,
+      "stock": 160,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 302,
+      "nombre": "Mouse Ultra",
+      "precio": 1459.42,
+      "stock": 113,
+      "categoria": "tablets"
+    },
+    {
+      "id": 303,
+      "nombre": "SSD Premium",
+      "precio": 821.06,
+      "stock": 195,
+      "categoria": "audio"
+    },
+    {
+      "id": 304,
+      "nombre": "Cooling Pad Core",
+      "precio": 109.92,
+      "stock": 57,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 305,
+      "nombre": "Router Elite",
+      "precio": 339.16,
+      "stock": 256,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 306,
+      "nombre": "Webcam Premium",
+      "precio": 1171.85,
+      "stock": 132,
+      "categoria": "laptop"
+    },
+    {
+      "id": 307,
+      "nombre": "Webcam Core",
+      "precio": 340.49,
+      "stock": 206,
+      "categoria": "periférico"
+    },
+    {
+      "id": 308,
+      "nombre": "HDD Ultra",
+      "precio": 175.71,
+      "stock": 266,
+      "categoria": "tablets"
+    },
+    {
+      "id": 309,
+      "nombre": "Switch Max",
+      "precio": 1208.53,
+      "stock": 99,
+      "categoria": "laptop"
+    },
+    {
+      "id": 310,
+      "nombre": "Keyboard Ultra",
+      "precio": 192.17,
+      "stock": 200,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 311,
+      "nombre": "Charger Core",
+      "precio": 619.69,
+      "stock": 141,
+      "categoria": "laptop"
+    },
+    {
+      "id": 312,
+      "nombre": "Printer Core",
+      "precio": 311.68,
+      "stock": 58,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 313,
+      "nombre": "SSD Smart",
+      "precio": 482.54,
+      "stock": 97,
+      "categoria": "tablets"
+    },
+    {
+      "id": 314,
+      "nombre": "Backpack Smart",
+      "precio": 192.6,
+      "stock": 11,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 315,
+      "nombre": "Backpack Core",
+      "precio": 73.1,
+      "stock": 115,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 316,
+      "nombre": "Webcam Plus",
+      "precio": 1037.75,
+      "stock": 6,
+      "categoria": "periférico"
+    },
+    {
+      "id": 317,
+      "nombre": "Headset Core",
+      "precio": 689.19,
+      "stock": 238,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 318,
+      "nombre": "Speakers Premium",
+      "precio": 1346.1,
+      "stock": 61,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 319,
+      "nombre": "Graphics Card Smart",
+      "precio": 225.29,
+      "stock": 276,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 320,
+      "nombre": "Mouse Ultra",
+      "precio": 1185.83,
+      "stock": 140,
+      "categoria": "periférico"
+    },
+    {
+      "id": 321,
+      "nombre": "USB Hub Essential",
+      "precio": 571.34,
+      "stock": 199,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 322,
+      "nombre": "Router Ultra",
+      "precio": 1377.76,
+      "stock": 42,
+      "categoria": "componentes"
+    },
+    {
+      "id": 323,
+      "nombre": "Headset Essential",
+      "precio": 256.87,
+      "stock": 37,
+      "categoria": "audio"
+    },
+    {
+      "id": 324,
+      "nombre": "SSD Elite",
+      "precio": 1016.64,
+      "stock": 180,
+      "categoria": "laptop"
+    },
+    {
+      "id": 325,
+      "nombre": "HDD Advanced",
+      "precio": 105.6,
+      "stock": 42,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 326,
+      "nombre": "Switch Smart",
+      "precio": 307.65,
+      "stock": 57,
+      "categoria": "componentes"
+    },
+    {
+      "id": 327,
+      "nombre": "Cooling Pad Smart",
+      "precio": 63.51,
+      "stock": 193,
+      "categoria": "tablets"
+    },
+    {
+      "id": 328,
+      "nombre": "Router Essential",
+      "precio": 1275.83,
+      "stock": 90,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 329,
+      "nombre": "Charger Elite",
+      "precio": 436.57,
+      "stock": 215,
+      "categoria": "tablets"
+    },
+    {
+      "id": 330,
+      "nombre": "Headset Plus",
+      "precio": 991.1,
+      "stock": 295,
+      "categoria": "tablets"
+    },
+    {
+      "id": 331,
+      "nombre": "USB Hub Ultra",
+      "precio": 728.07,
+      "stock": 131,
+      "categoria": "componentes"
+    },
+    {
+      "id": 332,
+      "nombre": "Monitor Plus",
+      "precio": 385.71,
+      "stock": 35,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 333,
+      "nombre": "WiFi Camera Advanced",
+      "precio": 198.5,
+      "stock": 152,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 334,
+      "nombre": "Keyboard Elite",
+      "precio": 27.42,
+      "stock": 86,
+      "categoria": "periférico"
+    },
+    {
+      "id": 335,
+      "nombre": "Backpack Advanced",
+      "precio": 520.01,
+      "stock": 235,
+      "categoria": "redes"
+    },
+    {
+      "id": 336,
+      "nombre": "Graphics Card Pro",
+      "precio": 1191.54,
+      "stock": 94,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 337,
+      "nombre": "Monitor Premium",
+      "precio": 1435.16,
+      "stock": 174,
+      "categoria": "redes"
+    },
+    {
+      "id": 338,
+      "nombre": "Switch Pro",
+      "precio": 915.38,
+      "stock": 11,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 339,
+      "nombre": "Cooling Pad Essential",
+      "precio": 1246.98,
+      "stock": 197,
+      "categoria": "componentes"
+    },
+    {
+      "id": 340,
+      "nombre": "Cooling Pad Advanced",
+      "precio": 99.0,
+      "stock": 106,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 341,
+      "nombre": "Bluetooth Earbuds Max",
+      "precio": 201.4,
+      "stock": 243,
+      "categoria": "tablets"
+    },
+    {
+      "id": 342,
+      "nombre": "HDD Essential",
+      "precio": 574.19,
+      "stock": 18,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 343,
+      "nombre": "WiFi Camera Premium",
+      "precio": 650.79,
+      "stock": 70,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 344,
+      "nombre": "Headset Core",
+      "precio": 50.89,
+      "stock": 108,
+      "categoria": "redes"
+    },
+    {
+      "id": 345,
+      "nombre": "Backpack Smart",
+      "precio": 363.24,
+      "stock": 159,
+      "categoria": "audio"
+    },
+    {
+      "id": 346,
+      "nombre": "USB Hub Advanced",
+      "precio": 217.87,
+      "stock": 101,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 347,
+      "nombre": "Printer Plus",
+      "precio": 106.68,
+      "stock": 179,
+      "categoria": "redes"
+    },
+    {
+      "id": 348,
+      "nombre": "Backpack Plus",
+      "precio": 547.56,
+      "stock": 5,
+      "categoria": "tablets"
+    },
+    {
+      "id": 349,
+      "nombre": "WiFi Camera Elite",
+      "precio": 1355.5,
+      "stock": 258,
+      "categoria": "componentes"
+    },
+    {
+      "id": 350,
+      "nombre": "HDD Smart",
+      "precio": 628.24,
+      "stock": 38,
+      "categoria": "redes"
+    },
+    {
+      "id": 351,
+      "nombre": "Charger Premium",
+      "precio": 1015.41,
+      "stock": 99,
+      "categoria": "redes"
+    },
+    {
+      "id": 352,
+      "nombre": "Graphics Card Core",
+      "precio": 718.94,
+      "stock": 9,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 353,
+      "nombre": "Switch Max",
+      "precio": 305.69,
+      "stock": 137,
+      "categoria": "componentes"
+    },
+    {
+      "id": 354,
+      "nombre": "Backpack Core",
+      "precio": 1418.22,
+      "stock": 283,
+      "categoria": "redes"
+    },
+    {
+      "id": 355,
+      "nombre": "Router Max",
+      "precio": 485.24,
+      "stock": 175,
+      "categoria": "redes"
+    },
+    {
+      "id": 356,
+      "nombre": "Tablet Plus",
+      "precio": 1359.95,
+      "stock": 206,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 357,
+      "nombre": "Tablet Core",
+      "precio": 1006.32,
+      "stock": 119,
+      "categoria": "redes"
+    },
+    {
+      "id": 358,
+      "nombre": "Cooling Pad Essential",
+      "precio": 922.54,
+      "stock": 119,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 359,
+      "nombre": "Router Plus",
+      "precio": 804.89,
+      "stock": 37,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 360,
+      "nombre": "Laptop Pro",
+      "precio": 240.04,
+      "stock": 156,
+      "categoria": "periférico"
+    },
+    {
+      "id": 361,
+      "nombre": "USB Hub Max",
+      "precio": 360.8,
+      "stock": 92,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 362,
+      "nombre": "Charger Premium",
+      "precio": 1083.29,
+      "stock": 215,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 363,
+      "nombre": "WiFi Camera Premium",
+      "precio": 514.77,
+      "stock": 35,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 364,
+      "nombre": "USB Hub Ultra",
+      "precio": 354.07,
+      "stock": 127,
+      "categoria": "tablets"
+    },
+    {
+      "id": 365,
+      "nombre": "Speakers Advanced",
+      "precio": 244.02,
+      "stock": 138,
+      "categoria": "tablets"
+    },
+    {
+      "id": 366,
+      "nombre": "Charger Plus",
+      "precio": 177.88,
+      "stock": 88,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 367,
+      "nombre": "Printer Premium",
+      "precio": 835.38,
+      "stock": 20,
+      "categoria": "audio"
+    },
+    {
+      "id": 368,
+      "nombre": "WiFi Camera Advanced",
+      "precio": 1205.86,
+      "stock": 97,
+      "categoria": "componentes"
+    },
+    {
+      "id": 369,
+      "nombre": "Mouse Pro",
+      "precio": 1017.99,
+      "stock": 217,
+      "categoria": "audio"
+    },
+    {
+      "id": 370,
+      "nombre": "Monitor Plus",
+      "precio": 1478.74,
+      "stock": 39,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 371,
+      "nombre": "Headset Smart",
+      "precio": 428.21,
+      "stock": 274,
+      "categoria": "tablets"
+    },
+    {
+      "id": 372,
+      "nombre": "WiFi Camera Essential",
+      "precio": 1394.94,
+      "stock": 35,
+      "categoria": "tablets"
+    },
+    {
+      "id": 373,
+      "nombre": "Monitor Premium",
+      "precio": 1147.43,
+      "stock": 19,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 374,
+      "nombre": "Speakers Pro",
+      "precio": 40.16,
+      "stock": 157,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 375,
+      "nombre": "Tablet Advanced",
+      "precio": 989.3,
+      "stock": 147,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 376,
+      "nombre": "Router Core",
+      "precio": 853.58,
+      "stock": 27,
+      "categoria": "laptop"
+    },
+    {
+      "id": 377,
+      "nombre": "Cooling Pad Advanced",
+      "precio": 728.3,
+      "stock": 282,
+      "categoria": "laptop"
+    },
+    {
+      "id": 378,
+      "nombre": "Mouse Pro",
+      "precio": 1166.4,
+      "stock": 218,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 379,
+      "nombre": "Webcam Plus",
+      "precio": 1398.92,
+      "stock": 274,
+      "categoria": "audio"
+    },
+    {
+      "id": 380,
+      "nombre": "Graphics Card Pro",
+      "precio": 1170.21,
+      "stock": 263,
+      "categoria": "redes"
+    },
+    {
+      "id": 381,
+      "nombre": "Laptop Core",
+      "precio": 863.76,
+      "stock": 271,
+      "categoria": "redes"
+    },
+    {
+      "id": 382,
+      "nombre": "Headset Smart",
+      "precio": 859.75,
+      "stock": 22,
+      "categoria": "laptop"
+    },
+    {
+      "id": 383,
+      "nombre": "Bluetooth Earbuds Core",
+      "precio": 382.22,
+      "stock": 23,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 384,
+      "nombre": "Laptop Smart",
+      "precio": 809.93,
+      "stock": 59,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 385,
+      "nombre": "Charger Max",
+      "precio": 564.86,
+      "stock": 88,
+      "categoria": "tablets"
+    },
+    {
+      "id": 386,
+      "nombre": "USB Hub Premium",
+      "precio": 1268.39,
+      "stock": 101,
+      "categoria": "redes"
+    },
+    {
+      "id": 387,
+      "nombre": "Switch Essential",
+      "precio": 1017.95,
+      "stock": 221,
+      "categoria": "periférico"
+    },
+    {
+      "id": 388,
+      "nombre": "Speakers Elite",
+      "precio": 963.02,
+      "stock": 33,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 389,
+      "nombre": "Keyboard Elite",
+      "precio": 585.62,
+      "stock": 147,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 390,
+      "nombre": "Webcam Plus",
+      "precio": 1370.6,
+      "stock": 8,
+      "categoria": "laptop"
+    },
+    {
+      "id": 391,
+      "nombre": "HDD Premium",
+      "precio": 652.48,
+      "stock": 293,
+      "categoria": "redes"
+    },
+    {
+      "id": 392,
+      "nombre": "Headset Advanced",
+      "precio": 603.56,
+      "stock": 144,
+      "categoria": "tablets"
+    },
+    {
+      "id": 393,
+      "nombre": "Bluetooth Earbuds Core",
+      "precio": 788.07,
+      "stock": 160,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 394,
+      "nombre": "Laptop Plus",
+      "precio": 573.57,
+      "stock": 121,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 395,
+      "nombre": "Mouse Elite",
+      "precio": 1252.35,
+      "stock": 250,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 396,
+      "nombre": "Printer Smart",
+      "precio": 1043.27,
+      "stock": 4,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 397,
+      "nombre": "Mouse Essential",
+      "precio": 1324.51,
+      "stock": 216,
+      "categoria": "componentes"
+    },
+    {
+      "id": 398,
+      "nombre": "Tablet Core",
+      "precio": 822.46,
+      "stock": 75,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 399,
+      "nombre": "Mouse Plus",
+      "precio": 447.05,
+      "stock": 148,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 400,
+      "nombre": "Charger Ultra",
+      "precio": 1147.13,
+      "stock": 295,
+      "categoria": "audio"
+    },
+    {
+      "id": 401,
+      "nombre": "Switch Max",
+      "precio": 540.33,
+      "stock": 283,
+      "categoria": "periférico"
+    },
+    {
+      "id": 402,
+      "nombre": "Printer Advanced",
+      "precio": 729.4,
+      "stock": 253,
+      "categoria": "componentes"
+    },
+    {
+      "id": 403,
+      "nombre": "SSD Essential",
+      "precio": 1283.55,
+      "stock": 28,
+      "categoria": "tablets"
+    },
+    {
+      "id": 404,
+      "nombre": "Keyboard Elite",
+      "precio": 78.62,
+      "stock": 56,
+      "categoria": "componentes"
+    },
+    {
+      "id": 405,
+      "nombre": "Switch Premium",
+      "precio": 1279.03,
+      "stock": 11,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 406,
+      "nombre": "Webcam Ultra",
+      "precio": 1121.08,
+      "stock": 250,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 407,
+      "nombre": "Webcam Plus",
+      "precio": 756.75,
+      "stock": 76,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 408,
+      "nombre": "Switch Essential",
+      "precio": 1355.02,
+      "stock": 170,
+      "categoria": "redes"
+    },
+    {
+      "id": 409,
+      "nombre": "Printer Core",
+      "precio": 1415.91,
+      "stock": 268,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 410,
+      "nombre": "HDD Elite",
+      "precio": 1198.66,
+      "stock": 50,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 411,
+      "nombre": "Webcam Core",
+      "precio": 1032.89,
+      "stock": 213,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 412,
+      "nombre": "Headset Essential",
+      "precio": 76.53,
+      "stock": 116,
+      "categoria": "periférico"
+    },
+    {
+      "id": 413,
+      "nombre": "Bluetooth Earbuds Plus",
+      "precio": 1106.29,
+      "stock": 139,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 414,
+      "nombre": "Cooling Pad Advanced",
+      "precio": 703.81,
+      "stock": 179,
+      "categoria": "periférico"
+    },
+    {
+      "id": 415,
+      "nombre": "Speakers Advanced",
+      "precio": 1339.65,
+      "stock": 49,
+      "categoria": "redes"
+    },
+    {
+      "id": 416,
+      "nombre": "USB Hub Core",
+      "precio": 1265.25,
+      "stock": 4,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 417,
+      "nombre": "Webcam Premium",
+      "precio": 1255.63,
+      "stock": 188,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 418,
+      "nombre": "USB Hub Advanced",
+      "precio": 995.81,
+      "stock": 79,
+      "categoria": "periférico"
+    },
+    {
+      "id": 419,
+      "nombre": "Monitor Advanced",
+      "precio": 630.16,
+      "stock": 231,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 420,
+      "nombre": "Charger Essential",
+      "precio": 387.99,
+      "stock": 196,
+      "categoria": "laptop"
+    },
+    {
+      "id": 421,
+      "nombre": "Tablet Elite",
+      "precio": 1378.64,
+      "stock": 284,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 422,
+      "nombre": "SSD Plus",
+      "precio": 158.69,
+      "stock": 183,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 423,
+      "nombre": "WiFi Camera Advanced",
+      "precio": 841.74,
+      "stock": 288,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 424,
+      "nombre": "HDD Smart",
+      "precio": 109.43,
+      "stock": 131,
+      "categoria": "audio"
+    },
+    {
+      "id": 425,
+      "nombre": "HDD Smart",
+      "precio": 783.23,
+      "stock": 24,
+      "categoria": "audio"
+    },
+    {
+      "id": 426,
+      "nombre": "Router Smart",
+      "precio": 1331.83,
+      "stock": 219,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 427,
+      "nombre": "Tablet Premium",
+      "precio": 571.03,
+      "stock": 206,
+      "categoria": "audio"
+    },
+    {
+      "id": 428,
+      "nombre": "Backpack Smart",
+      "precio": 631.32,
+      "stock": 264,
+      "categoria": "audio"
+    },
+    {
+      "id": 429,
+      "nombre": "SSD Elite",
+      "precio": 560.73,
+      "stock": 86,
+      "categoria": "componentes"
+    },
+    {
+      "id": 430,
+      "nombre": "Charger Smart",
+      "precio": 399.4,
+      "stock": 44,
+      "categoria": "laptop"
+    },
+    {
+      "id": 431,
+      "nombre": "Monitor Plus",
+      "precio": 49.75,
+      "stock": 222,
+      "categoria": "periférico"
+    },
+    {
+      "id": 432,
+      "nombre": "Router Advanced",
+      "precio": 1401.18,
+      "stock": 63,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 433,
+      "nombre": "Mouse Advanced",
+      "precio": 122.92,
+      "stock": 288,
+      "categoria": "redes"
+    },
+    {
+      "id": 434,
+      "nombre": "Speakers Elite",
+      "precio": 660.2,
+      "stock": 300,
+      "categoria": "periférico"
+    },
+    {
+      "id": 435,
+      "nombre": "Backpack Essential",
+      "precio": 864.36,
+      "stock": 214,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 436,
+      "nombre": "Laptop Advanced",
+      "precio": 967.34,
+      "stock": 139,
+      "categoria": "componentes"
+    },
+    {
+      "id": 437,
+      "nombre": "Charger Plus",
+      "precio": 1193.13,
+      "stock": 167,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 438,
+      "nombre": "Cooling Pad Max",
+      "precio": 503.55,
+      "stock": 118,
+      "categoria": "componentes"
+    },
+    {
+      "id": 439,
+      "nombre": "Speakers Premium",
+      "precio": 251.94,
+      "stock": 155,
+      "categoria": "componentes"
+    },
+    {
+      "id": 440,
+      "nombre": "Webcam Premium",
+      "precio": 1397.54,
+      "stock": 122,
+      "categoria": "tablets"
+    },
+    {
+      "id": 441,
+      "nombre": "Cooling Pad Ultra",
+      "precio": 380.55,
+      "stock": 98,
+      "categoria": "redes"
+    },
+    {
+      "id": 442,
+      "nombre": "Headset Plus",
+      "precio": 1255.21,
+      "stock": 5,
+      "categoria": "tablets"
+    },
+    {
+      "id": 443,
+      "nombre": "WiFi Camera Max",
+      "precio": 46.61,
+      "stock": 138,
+      "categoria": "tablets"
+    },
+    {
+      "id": 444,
+      "nombre": "Speakers Max",
+      "precio": 267.05,
+      "stock": 34,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 445,
+      "nombre": "Speakers Max",
+      "precio": 657.02,
+      "stock": 162,
+      "categoria": "periférico"
+    },
+    {
+      "id": 446,
+      "nombre": "Tablet Advanced",
+      "precio": 255.59,
+      "stock": 10,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 447,
+      "nombre": "Switch Max",
+      "precio": 1390.25,
+      "stock": 32,
+      "categoria": "laptop"
+    },
+    {
+      "id": 448,
+      "nombre": "SSD Pro",
+      "precio": 680.9,
+      "stock": 108,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 449,
+      "nombre": "Backpack Max",
+      "precio": 1025.05,
+      "stock": 139,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 450,
+      "nombre": "Monitor Smart",
+      "precio": 1019.6,
+      "stock": 286,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 451,
+      "nombre": "Bluetooth Earbuds Premium",
+      "precio": 1470.54,
+      "stock": 41,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 452,
+      "nombre": "Speakers Essential",
+      "precio": 428.58,
+      "stock": 218,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 453,
+      "nombre": "Switch Advanced",
+      "precio": 498.61,
+      "stock": 248,
+      "categoria": "periférico"
+    },
+    {
+      "id": 454,
+      "nombre": "Headset Core",
+      "precio": 777.13,
+      "stock": 89,
+      "categoria": "redes"
+    },
+    {
+      "id": 455,
+      "nombre": "Router Pro",
+      "precio": 538.57,
+      "stock": 5,
+      "categoria": "periférico"
+    },
+    {
+      "id": 456,
+      "nombre": "Mouse Pro",
+      "precio": 61.51,
+      "stock": 265,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 457,
+      "nombre": "Cooling Pad Max",
+      "precio": 67.73,
+      "stock": 281,
+      "categoria": "laptop"
+    },
+    {
+      "id": 458,
+      "nombre": "Headset Essential",
+      "precio": 532.78,
+      "stock": 245,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 459,
+      "nombre": "Graphics Card Plus",
+      "precio": 1391.02,
+      "stock": 39,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 460,
+      "nombre": "Headset Plus",
+      "precio": 929.6,
+      "stock": 36,
+      "categoria": "audio"
+    },
+    {
+      "id": 461,
+      "nombre": "Graphics Card Core",
+      "precio": 794.33,
+      "stock": 88,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 462,
+      "nombre": "Bluetooth Earbuds Premium",
+      "precio": 404.82,
+      "stock": 133,
+      "categoria": "redes"
+    },
+    {
+      "id": 463,
+      "nombre": "SSD Elite",
+      "precio": 523.47,
+      "stock": 278,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 464,
+      "nombre": "USB Hub Advanced",
+      "precio": 1405.99,
+      "stock": 248,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 465,
+      "nombre": "Monitor Ultra",
+      "precio": 783.16,
+      "stock": 86,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 466,
+      "nombre": "Charger Essential",
+      "precio": 973.7,
+      "stock": 296,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 467,
+      "nombre": "WiFi Camera Smart",
+      "precio": 1387.4,
+      "stock": 92,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 468,
+      "nombre": "Switch Smart",
+      "precio": 1178.06,
+      "stock": 12,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 469,
+      "nombre": "Webcam Premium",
+      "precio": 488.41,
+      "stock": 181,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 470,
+      "nombre": "Graphics Card Elite",
+      "precio": 1255.35,
+      "stock": 184,
+      "categoria": "laptop"
+    },
+    {
+      "id": 471,
+      "nombre": "WiFi Camera Core",
+      "precio": 179.04,
+      "stock": 68,
+      "categoria": "periférico"
+    },
+    {
+      "id": 472,
+      "nombre": "Monitor Max",
+      "precio": 1119.37,
+      "stock": 39,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 473,
+      "nombre": "Tablet Plus",
+      "precio": 402.61,
+      "stock": 2,
+      "categoria": "laptop"
+    },
+    {
+      "id": 474,
+      "nombre": "Tablet Elite",
+      "precio": 231.83,
+      "stock": 264,
+      "categoria": "componentes"
+    },
+    {
+      "id": 475,
+      "nombre": "Laptop Core",
+      "precio": 810.69,
+      "stock": 29,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 476,
+      "nombre": "Headset Core",
+      "precio": 356.92,
+      "stock": 49,
+      "categoria": "audio"
+    },
+    {
+      "id": 477,
+      "nombre": "Switch Pro",
+      "precio": 1450.37,
+      "stock": 285,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 478,
+      "nombre": "Speakers Pro",
+      "precio": 1294.19,
+      "stock": 83,
+      "categoria": "periférico"
+    },
+    {
+      "id": 479,
+      "nombre": "USB Hub Plus",
+      "precio": 803.67,
+      "stock": 78,
+      "categoria": "audio"
+    },
+    {
+      "id": 480,
+      "nombre": "SSD Premium",
+      "precio": 433.31,
+      "stock": 70,
+      "categoria": "periférico"
+    },
+    {
+      "id": 481,
+      "nombre": "Webcam Elite",
+      "precio": 262.13,
+      "stock": 51,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 482,
+      "nombre": "Keyboard Advanced",
+      "precio": 702.07,
+      "stock": 203,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 483,
+      "nombre": "SSD Elite",
+      "precio": 1296.47,
+      "stock": 198,
+      "categoria": "periférico"
+    },
+    {
+      "id": 484,
+      "nombre": "Bluetooth Earbuds Elite",
+      "precio": 665.71,
+      "stock": 195,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 485,
+      "nombre": "Printer Pro",
+      "precio": 22.34,
+      "stock": 158,
+      "categoria": "periférico"
+    },
+    {
+      "id": 486,
+      "nombre": "Monitor Premium",
+      "precio": 929.28,
+      "stock": 80,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 487,
+      "nombre": "Monitor Max",
+      "precio": 1233.35,
+      "stock": 216,
+      "categoria": "tablets"
+    },
+    {
+      "id": 488,
+      "nombre": "Graphics Card Pro",
+      "precio": 1207.04,
+      "stock": 291,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 489,
+      "nombre": "Backpack Essential",
+      "precio": 817.76,
+      "stock": 166,
+      "categoria": "laptop"
+    },
+    {
+      "id": 490,
+      "nombre": "Webcam Advanced",
+      "precio": 845.09,
+      "stock": 151,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 491,
+      "nombre": "Laptop Premium",
+      "precio": 1299.8,
+      "stock": 186,
+      "categoria": "componentes"
+    },
+    {
+      "id": 492,
+      "nombre": "Headset Essential",
+      "precio": 558.88,
+      "stock": 181,
+      "categoria": "redes"
+    },
+    {
+      "id": 493,
+      "nombre": "SSD Elite",
+      "precio": 965.25,
+      "stock": 280,
+      "categoria": "redes"
+    },
+    {
+      "id": 494,
+      "nombre": "Monitor Essential",
+      "precio": 412.21,
+      "stock": 186,
+      "categoria": "audio"
+    },
+    {
+      "id": 495,
+      "nombre": "Laptop Max",
+      "precio": 471.22,
+      "stock": 214,
+      "categoria": "redes"
+    },
+    {
+      "id": 496,
+      "nombre": "Graphics Card Advanced",
+      "precio": 68.38,
+      "stock": 145,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 497,
+      "nombre": "Keyboard Advanced",
+      "precio": 684.3,
+      "stock": 88,
+      "categoria": "componentes"
+    },
+    {
+      "id": 498,
+      "nombre": "Bluetooth Earbuds Plus",
+      "precio": 212.2,
+      "stock": 60,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 499,
+      "nombre": "Backpack Plus",
+      "precio": 1051.65,
+      "stock": 172,
+      "categoria": "tablets"
+    },
+    {
+      "id": 500,
+      "nombre": "Graphics Card Essential",
+      "precio": 673.91,
+      "stock": 30,
+      "categoria": "componentes"
+    },
+    {
+      "id": 501,
+      "nombre": "Cooling Pad Smart",
+      "precio": 1456.83,
+      "stock": 200,
+      "categoria": "componentes"
+    },
+    {
+      "id": 502,
+      "nombre": "Switch Core",
+      "precio": 650.57,
+      "stock": 187,
+      "categoria": "audio"
+    },
+    {
+      "id": 503,
+      "nombre": "Tablet Premium",
+      "precio": 736.71,
+      "stock": 70,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 504,
+      "nombre": "Backpack Core",
+      "precio": 267.91,
+      "stock": 251,
+      "categoria": "componentes"
+    },
+    {
+      "id": 505,
+      "nombre": "Router Smart",
+      "precio": 1497.79,
+      "stock": 1,
+      "categoria": "laptop"
+    },
+    {
+      "id": 506,
+      "nombre": "WiFi Camera Core",
+      "precio": 1117.26,
+      "stock": 19,
+      "categoria": "laptop"
+    },
+    {
+      "id": 507,
+      "nombre": "HDD Essential",
+      "precio": 444.69,
+      "stock": 144,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 508,
+      "nombre": "Printer Ultra",
+      "precio": 424.39,
+      "stock": 64,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 509,
+      "nombre": "Webcam Premium",
+      "precio": 26.62,
+      "stock": 108,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 510,
+      "nombre": "Speakers Plus",
+      "precio": 1374.79,
+      "stock": 194,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 511,
+      "nombre": "Keyboard Pro",
+      "precio": 1447.03,
+      "stock": 143,
+      "categoria": "laptop"
+    },
+    {
+      "id": 512,
+      "nombre": "Webcam Premium",
+      "precio": 154.59,
+      "stock": 154,
+      "categoria": "periférico"
+    },
+    {
+      "id": 513,
+      "nombre": "Switch Premium",
+      "precio": 518.71,
+      "stock": 28,
+      "categoria": "redes"
+    },
+    {
+      "id": 514,
+      "nombre": "Backpack Core",
+      "precio": 1056.74,
+      "stock": 281,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 515,
+      "nombre": "Mouse Premium",
+      "precio": 369.9,
+      "stock": 80,
+      "categoria": "audio"
+    },
+    {
+      "id": 516,
+      "nombre": "Tablet Advanced",
+      "precio": 1193.56,
+      "stock": 168,
+      "categoria": "componentes"
+    },
+    {
+      "id": 517,
+      "nombre": "Headset Smart",
+      "precio": 1341.54,
+      "stock": 51,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 518,
+      "nombre": "Keyboard Core",
+      "precio": 1334.63,
+      "stock": 58,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 519,
+      "nombre": "Backpack Premium",
+      "precio": 675.56,
+      "stock": 126,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 520,
+      "nombre": "Tablet Elite",
+      "precio": 62.57,
+      "stock": 274,
+      "categoria": "tablets"
+    },
+    {
+      "id": 521,
+      "nombre": "Graphics Card Max",
+      "precio": 1266.51,
+      "stock": 112,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 522,
+      "nombre": "SSD Pro",
+      "precio": 1410.78,
+      "stock": 135,
+      "categoria": "audio"
+    },
+    {
+      "id": 523,
+      "nombre": "USB Hub Pro",
+      "precio": 767.97,
+      "stock": 232,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 524,
+      "nombre": "Printer Elite",
+      "precio": 310.15,
+      "stock": 186,
+      "categoria": "audio"
+    },
+    {
+      "id": 525,
+      "nombre": "Cooling Pad Elite",
+      "precio": 903.73,
+      "stock": 253,
+      "categoria": "audio"
+    },
+    {
+      "id": 526,
+      "nombre": "Router Plus",
+      "precio": 969.08,
+      "stock": 193,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 527,
+      "nombre": "Keyboard Premium",
+      "precio": 142.58,
+      "stock": 133,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 528,
+      "nombre": "Tablet Max",
+      "precio": 1351.6,
+      "stock": 180,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 529,
+      "nombre": "Switch Pro",
+      "precio": 798.33,
+      "stock": 31,
+      "categoria": "redes"
+    },
+    {
+      "id": 530,
+      "nombre": "SSD Advanced",
+      "precio": 1448.15,
+      "stock": 211,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 531,
+      "nombre": "WiFi Camera Pro",
+      "precio": 1395.81,
+      "stock": 256,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 532,
+      "nombre": "HDD Plus",
+      "precio": 758.83,
+      "stock": 282,
+      "categoria": "redes"
+    },
+    {
+      "id": 533,
+      "nombre": "Mouse Core",
+      "precio": 324.79,
+      "stock": 67,
+      "categoria": "tablets"
+    },
+    {
+      "id": 534,
+      "nombre": "Headset Essential",
+      "precio": 978.12,
+      "stock": 110,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 535,
+      "nombre": "Backpack Smart",
+      "precio": 314.96,
+      "stock": 187,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 536,
+      "nombre": "Graphics Card Pro",
+      "precio": 158.37,
+      "stock": 68,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 537,
+      "nombre": "USB Hub Pro",
+      "precio": 578.95,
+      "stock": 251,
+      "categoria": "componentes"
+    },
+    {
+      "id": 538,
+      "nombre": "Keyboard Core",
+      "precio": 600.45,
+      "stock": 171,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 539,
+      "nombre": "Webcam Smart",
+      "precio": 339.47,
+      "stock": 15,
+      "categoria": "laptop"
+    },
+    {
+      "id": 540,
+      "nombre": "Graphics Card Advanced",
+      "precio": 122.29,
+      "stock": 28,
+      "categoria": "audio"
+    },
+    {
+      "id": 541,
+      "nombre": "Bluetooth Earbuds Core",
+      "precio": 1324.68,
+      "stock": 183,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 542,
+      "nombre": "Keyboard Plus",
+      "precio": 1056.78,
+      "stock": 270,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 543,
+      "nombre": "Mouse Pro",
+      "precio": 595.11,
+      "stock": 275,
+      "categoria": "tablets"
+    },
+    {
+      "id": 544,
+      "nombre": "HDD Pro",
+      "precio": 1406.42,
+      "stock": 21,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 545,
+      "nombre": "Charger Essential",
+      "precio": 649.08,
+      "stock": 285,
+      "categoria": "tablets"
+    },
+    {
+      "id": 546,
+      "nombre": "Printer Advanced",
+      "precio": 390.14,
+      "stock": 268,
+      "categoria": "redes"
+    },
+    {
+      "id": 547,
+      "nombre": "Cooling Pad Max",
+      "precio": 1068.78,
+      "stock": 192,
+      "categoria": "audio"
+    },
+    {
+      "id": 548,
+      "nombre": "Printer Essential",
+      "precio": 456.14,
+      "stock": 166,
+      "categoria": "redes"
+    },
+    {
+      "id": 549,
+      "nombre": "Charger Plus",
+      "precio": 875.8,
+      "stock": 135,
+      "categoria": "componentes"
+    },
+    {
+      "id": 550,
+      "nombre": "Headset Premium",
+      "precio": 1229.65,
+      "stock": 50,
+      "categoria": "componentes"
+    },
+    {
+      "id": 551,
+      "nombre": "Mouse Smart",
+      "precio": 735.1,
+      "stock": 174,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 552,
+      "nombre": "Tablet Essential",
+      "precio": 1052.13,
+      "stock": 296,
+      "categoria": "audio"
+    },
+    {
+      "id": 553,
+      "nombre": "Webcam Elite",
+      "precio": 1202.64,
+      "stock": 54,
+      "categoria": "tablets"
+    },
+    {
+      "id": 554,
+      "nombre": "HDD Advanced",
+      "precio": 76.02,
+      "stock": 61,
+      "categoria": "laptop"
+    },
+    {
+      "id": 555,
+      "nombre": "Cooling Pad Max",
+      "precio": 292.17,
+      "stock": 80,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 556,
+      "nombre": "Webcam Plus",
+      "precio": 253.13,
+      "stock": 140,
+      "categoria": "periférico"
+    },
+    {
+      "id": 557,
+      "nombre": "Speakers Smart",
+      "precio": 1337.79,
+      "stock": 167,
+      "categoria": "tablets"
+    },
+    {
+      "id": 558,
+      "nombre": "Cooling Pad Max",
+      "precio": 493.58,
+      "stock": 179,
+      "categoria": "laptop"
+    },
+    {
+      "id": 559,
+      "nombre": "Graphics Card Premium",
+      "precio": 123.5,
+      "stock": 274,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 560,
+      "nombre": "Mouse Elite",
+      "precio": 626.96,
+      "stock": 40,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 561,
+      "nombre": "Monitor Plus",
+      "precio": 1038.08,
+      "stock": 19,
+      "categoria": "tablets"
+    },
+    {
+      "id": 562,
+      "nombre": "Printer Smart",
+      "precio": 1013.37,
+      "stock": 110,
+      "categoria": "audio"
+    },
+    {
+      "id": 563,
+      "nombre": "Backpack Premium",
+      "precio": 633.63,
+      "stock": 144,
+      "categoria": "periférico"
+    },
+    {
+      "id": 564,
+      "nombre": "Charger Smart",
+      "precio": 667.98,
+      "stock": 254,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 565,
+      "nombre": "Graphics Card Max",
+      "precio": 1026.9,
+      "stock": 141,
+      "categoria": "audio"
+    },
+    {
+      "id": 566,
+      "nombre": "Webcam Essential",
+      "precio": 1096.65,
+      "stock": 88,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 567,
+      "nombre": "USB Hub Smart",
+      "precio": 627.42,
+      "stock": 198,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 568,
+      "nombre": "Tablet Pro",
+      "precio": 1019.68,
+      "stock": 21,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 569,
+      "nombre": "Printer Advanced",
+      "precio": 1133.46,
+      "stock": 124,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 570,
+      "nombre": "Graphics Card Advanced",
+      "precio": 724.35,
+      "stock": 169,
+      "categoria": "periférico"
+    },
+    {
+      "id": 571,
+      "nombre": "Bluetooth Earbuds Smart",
+      "precio": 519.38,
+      "stock": 117,
+      "categoria": "redes"
+    },
+    {
+      "id": 572,
+      "nombre": "Headset Premium",
+      "precio": 758.29,
+      "stock": 28,
+      "categoria": "periférico"
+    },
+    {
+      "id": 573,
+      "nombre": "Backpack Essential",
+      "precio": 57.81,
+      "stock": 164,
+      "categoria": "periférico"
+    },
+    {
+      "id": 574,
+      "nombre": "HDD Ultra",
+      "precio": 997.42,
+      "stock": 179,
+      "categoria": "audio"
+    },
+    {
+      "id": 575,
+      "nombre": "Cooling Pad Ultra",
+      "precio": 82.99,
+      "stock": 95,
+      "categoria": "audio"
+    },
+    {
+      "id": 576,
+      "nombre": "Tablet Ultra",
+      "precio": 214.56,
+      "stock": 127,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 577,
+      "nombre": "Webcam Advanced",
+      "precio": 40.3,
+      "stock": 215,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 578,
+      "nombre": "Switch Max",
+      "precio": 483.36,
+      "stock": 267,
+      "categoria": "periférico"
+    },
+    {
+      "id": 579,
+      "nombre": "Charger Premium",
+      "precio": 1359.12,
+      "stock": 41,
+      "categoria": "audio"
+    },
+    {
+      "id": 580,
+      "nombre": "Graphics Card Essential",
+      "precio": 1471.72,
+      "stock": 69,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 581,
+      "nombre": "Bluetooth Earbuds Premium",
+      "precio": 162.69,
+      "stock": 148,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 582,
+      "nombre": "Graphics Card Max",
+      "precio": 1280.91,
+      "stock": 288,
+      "categoria": "periférico"
+    },
+    {
+      "id": 583,
+      "nombre": "USB Hub Premium",
+      "precio": 318.72,
+      "stock": 85,
+      "categoria": "componentes"
+    },
+    {
+      "id": 584,
+      "nombre": "Charger Plus",
+      "precio": 848.73,
+      "stock": 295,
+      "categoria": "audio"
+    },
+    {
+      "id": 585,
+      "nombre": "Graphics Card Premium",
+      "precio": 1080.98,
+      "stock": 90,
+      "categoria": "audio"
+    },
+    {
+      "id": 586,
+      "nombre": "HDD Plus",
+      "precio": 1425.85,
+      "stock": 277,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 587,
+      "nombre": "Tablet Essential",
+      "precio": 777.09,
+      "stock": 267,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 588,
+      "nombre": "Charger Smart",
+      "precio": 93.27,
+      "stock": 294,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 589,
+      "nombre": "Laptop Plus",
+      "precio": 123.61,
+      "stock": 234,
+      "categoria": "redes"
+    },
+    {
+      "id": 590,
+      "nombre": "Bluetooth Earbuds Smart",
+      "precio": 1439.71,
+      "stock": 116,
+      "categoria": "laptop"
+    },
+    {
+      "id": 591,
+      "nombre": "Speakers Elite",
+      "precio": 1059.99,
+      "stock": 231,
+      "categoria": "periférico"
+    },
+    {
+      "id": 592,
+      "nombre": "Webcam Max",
+      "precio": 418.54,
+      "stock": 62,
+      "categoria": "redes"
+    },
+    {
+      "id": 593,
+      "nombre": "Monitor Advanced",
+      "precio": 88.13,
+      "stock": 173,
+      "categoria": "componentes"
+    },
+    {
+      "id": 594,
+      "nombre": "Backpack Ultra",
+      "precio": 253.3,
+      "stock": 47,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 595,
+      "nombre": "Bluetooth Earbuds Essential",
+      "precio": 1060.43,
+      "stock": 201,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 596,
+      "nombre": "USB Hub Premium",
+      "precio": 245.53,
+      "stock": 2,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 597,
+      "nombre": "Backpack Plus",
+      "precio": 157.52,
+      "stock": 206,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 598,
+      "nombre": "Headset Max",
+      "precio": 109.52,
+      "stock": 148,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 599,
+      "nombre": "Keyboard Elite",
+      "precio": 1134.28,
+      "stock": 201,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 600,
+      "nombre": "Graphics Card Max",
+      "precio": 1006.92,
+      "stock": 192,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 601,
+      "nombre": "SSD Plus",
+      "precio": 868.88,
+      "stock": 191,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 602,
+      "nombre": "Bluetooth Earbuds Plus",
+      "precio": 705.15,
+      "stock": 42,
+      "categoria": "componentes"
+    },
+    {
+      "id": 603,
+      "nombre": "Charger Premium",
+      "precio": 1335.47,
+      "stock": 187,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 604,
+      "nombre": "Mouse Max",
+      "precio": 1256.35,
+      "stock": 10,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 605,
+      "nombre": "Mouse Essential",
+      "precio": 1259.38,
+      "stock": 34,
+      "categoria": "tablets"
+    },
+    {
+      "id": 606,
+      "nombre": "Laptop Elite",
+      "precio": 407.39,
+      "stock": 194,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 607,
+      "nombre": "Monitor Elite",
+      "precio": 1248.49,
+      "stock": 64,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 608,
+      "nombre": "Monitor Max",
+      "precio": 612.28,
+      "stock": 297,
+      "categoria": "redes"
+    },
+    {
+      "id": 609,
+      "nombre": "Headset Premium",
+      "precio": 778.7,
+      "stock": 288,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 610,
+      "nombre": "SSD Premium",
+      "precio": 1348.77,
+      "stock": 118,
+      "categoria": "redes"
+    },
+    {
+      "id": 611,
+      "nombre": "Printer Plus",
+      "precio": 379.2,
+      "stock": 200,
+      "categoria": "laptop"
+    },
+    {
+      "id": 612,
+      "nombre": "HDD Smart",
+      "precio": 1310.5,
+      "stock": 72,
+      "categoria": "periférico"
+    },
+    {
+      "id": 613,
+      "nombre": "Printer Core",
+      "precio": 977.09,
+      "stock": 119,
+      "categoria": "tablets"
+    },
+    {
+      "id": 614,
+      "nombre": "Bluetooth Earbuds Max",
+      "precio": 821.21,
+      "stock": 53,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 615,
+      "nombre": "Mouse Advanced",
+      "precio": 230.37,
+      "stock": 32,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 616,
+      "nombre": "Switch Max",
+      "precio": 1281.15,
+      "stock": 227,
+      "categoria": "componentes"
+    },
+    {
+      "id": 617,
+      "nombre": "Webcam Essential",
+      "precio": 145.1,
+      "stock": 254,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 618,
+      "nombre": "Headset Plus",
+      "precio": 1250.33,
+      "stock": 297,
+      "categoria": "laptop"
+    },
+    {
+      "id": 619,
+      "nombre": "Switch Max",
+      "precio": 976.03,
+      "stock": 208,
+      "categoria": "laptop"
+    },
+    {
+      "id": 620,
+      "nombre": "Webcam Plus",
+      "precio": 1404.55,
+      "stock": 47,
+      "categoria": "tablets"
+    },
+    {
+      "id": 621,
+      "nombre": "WiFi Camera Ultra",
+      "precio": 1153.97,
+      "stock": 77,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 622,
+      "nombre": "Headset Advanced",
+      "precio": 189.51,
+      "stock": 266,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 623,
+      "nombre": "Mouse Max",
+      "precio": 887.08,
+      "stock": 29,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 624,
+      "nombre": "SSD Core",
+      "precio": 417.85,
+      "stock": 82,
+      "categoria": "componentes"
+    },
+    {
+      "id": 625,
+      "nombre": "WiFi Camera Advanced",
+      "precio": 1305.11,
+      "stock": 110,
+      "categoria": "tablets"
+    },
+    {
+      "id": 626,
+      "nombre": "SSD Smart",
+      "precio": 530.92,
+      "stock": 297,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 627,
+      "nombre": "Headset Core",
+      "precio": 977.84,
+      "stock": 125,
+      "categoria": "laptop"
+    },
+    {
+      "id": 628,
+      "nombre": "Keyboard Advanced",
+      "precio": 1182.18,
+      "stock": 264,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 629,
+      "nombre": "Speakers Plus",
+      "precio": 796.13,
+      "stock": 229,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 630,
+      "nombre": "HDD Elite",
+      "precio": 393.6,
+      "stock": 151,
+      "categoria": "periférico"
+    },
+    {
+      "id": 631,
+      "nombre": "Keyboard Smart",
+      "precio": 933.44,
+      "stock": 269,
+      "categoria": "componentes"
+    },
+    {
+      "id": 632,
+      "nombre": "Printer Smart",
+      "precio": 922.52,
+      "stock": 90,
+      "categoria": "laptop"
+    },
+    {
+      "id": 633,
+      "nombre": "Monitor Advanced",
+      "precio": 1389.21,
+      "stock": 13,
+      "categoria": "componentes"
+    },
+    {
+      "id": 634,
+      "nombre": "Monitor Core",
+      "precio": 485.55,
+      "stock": 123,
+      "categoria": "tablets"
+    },
+    {
+      "id": 635,
+      "nombre": "Backpack Pro",
+      "precio": 1270.08,
+      "stock": 202,
+      "categoria": "audio"
+    },
+    {
+      "id": 636,
+      "nombre": "HDD Advanced",
+      "precio": 635.16,
+      "stock": 51,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 637,
+      "nombre": "Laptop Essential",
+      "precio": 686.63,
+      "stock": 76,
+      "categoria": "laptop"
+    },
+    {
+      "id": 638,
+      "nombre": "SSD Pro",
+      "precio": 674.01,
+      "stock": 175,
+      "categoria": "audio"
+    },
+    {
+      "id": 639,
+      "nombre": "Charger Pro",
+      "precio": 945.62,
+      "stock": 179,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 640,
+      "nombre": "Tablet Pro",
+      "precio": 924.99,
+      "stock": 105,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 641,
+      "nombre": "Monitor Elite",
+      "precio": 343.83,
+      "stock": 272,
+      "categoria": "redes"
+    },
+    {
+      "id": 642,
+      "nombre": "Charger Advanced",
+      "precio": 913.06,
+      "stock": 107,
+      "categoria": "redes"
+    },
+    {
+      "id": 643,
+      "nombre": "USB Hub Max",
+      "precio": 70.37,
+      "stock": 161,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 644,
+      "nombre": "Backpack Premium",
+      "precio": 1288.56,
+      "stock": 47,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 645,
+      "nombre": "Monitor Plus",
+      "precio": 1313.72,
+      "stock": 239,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 646,
+      "nombre": "WiFi Camera Max",
+      "precio": 361.69,
+      "stock": 118,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 647,
+      "nombre": "Printer Essential",
+      "precio": 1009.72,
+      "stock": 122,
+      "categoria": "laptop"
+    },
+    {
+      "id": 648,
+      "nombre": "Graphics Card Ultra",
+      "precio": 24.69,
+      "stock": 181,
+      "categoria": "audio"
+    },
+    {
+      "id": 649,
+      "nombre": "Cooling Pad Ultra",
+      "precio": 671.08,
+      "stock": 158,
+      "categoria": "componentes"
+    },
+    {
+      "id": 650,
+      "nombre": "Mouse Advanced",
+      "precio": 1362.73,
+      "stock": 93,
+      "categoria": "componentes"
+    },
+    {
+      "id": 651,
+      "nombre": "Laptop Smart",
+      "precio": 1441.51,
+      "stock": 287,
+      "categoria": "laptop"
+    },
+    {
+      "id": 652,
+      "nombre": "Speakers Advanced",
+      "precio": 589.32,
+      "stock": 274,
+      "categoria": "redes"
+    },
+    {
+      "id": 653,
+      "nombre": "Bluetooth Earbuds Ultra",
+      "precio": 466.54,
+      "stock": 210,
+      "categoria": "audio"
+    },
+    {
+      "id": 654,
+      "nombre": "Keyboard Pro",
+      "precio": 945.57,
+      "stock": 160,
+      "categoria": "laptop"
+    },
+    {
+      "id": 655,
+      "nombre": "Printer Core",
+      "precio": 1268.12,
+      "stock": 176,
+      "categoria": "periférico"
+    },
+    {
+      "id": 656,
+      "nombre": "Charger Ultra",
+      "precio": 961.91,
+      "stock": 55,
+      "categoria": "laptop"
+    },
+    {
+      "id": 657,
+      "nombre": "Graphics Card Elite",
+      "precio": 1414.65,
+      "stock": 165,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 658,
+      "nombre": "Speakers Essential",
+      "precio": 594.36,
+      "stock": 206,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 659,
+      "nombre": "Cooling Pad Smart",
+      "precio": 942.11,
+      "stock": 286,
+      "categoria": "periférico"
+    },
+    {
+      "id": 660,
+      "nombre": "Monitor Premium",
+      "precio": 113.34,
+      "stock": 212,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 661,
+      "nombre": "Router Premium",
+      "precio": 1130.47,
+      "stock": 49,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 662,
+      "nombre": "Monitor Essential",
+      "precio": 471.22,
+      "stock": 211,
+      "categoria": "redes"
+    },
+    {
+      "id": 663,
+      "nombre": "Bluetooth Earbuds Advanced",
+      "precio": 1360.54,
+      "stock": 111,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 664,
+      "nombre": "Laptop Essential",
+      "precio": 411.18,
+      "stock": 183,
+      "categoria": "periférico"
+    },
+    {
+      "id": 665,
+      "nombre": "USB Hub Premium",
+      "precio": 728.36,
+      "stock": 187,
+      "categoria": "redes"
+    },
+    {
+      "id": 666,
+      "nombre": "Headset Elite",
+      "precio": 922.88,
+      "stock": 35,
+      "categoria": "tablets"
+    },
+    {
+      "id": 667,
+      "nombre": "Webcam Max",
+      "precio": 230.27,
+      "stock": 78,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 668,
+      "nombre": "Monitor Smart",
+      "precio": 131.32,
+      "stock": 119,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 669,
+      "nombre": "Graphics Card Ultra",
+      "precio": 1233.49,
+      "stock": 236,
+      "categoria": "tablets"
+    },
+    {
+      "id": 670,
+      "nombre": "Laptop Essential",
+      "precio": 1267.07,
+      "stock": 236,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 671,
+      "nombre": "USB Hub Smart",
+      "precio": 1373.5,
+      "stock": 120,
+      "categoria": "periférico"
+    },
+    {
+      "id": 672,
+      "nombre": "Laptop Advanced",
+      "precio": 116.17,
+      "stock": 254,
+      "categoria": "audio"
+    },
+    {
+      "id": 673,
+      "nombre": "Mouse Advanced",
+      "precio": 56.6,
+      "stock": 84,
+      "categoria": "periférico"
+    },
+    {
+      "id": 674,
+      "nombre": "Graphics Card Advanced",
+      "precio": 341.69,
+      "stock": 33,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 675,
+      "nombre": "Charger Essential",
+      "precio": 1120.7,
+      "stock": 150,
+      "categoria": "componentes"
+    },
+    {
+      "id": 676,
+      "nombre": "WiFi Camera Ultra",
+      "precio": 807.49,
+      "stock": 160,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 677,
+      "nombre": "Monitor Advanced",
+      "precio": 519.42,
+      "stock": 90,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 678,
+      "nombre": "Webcam Smart",
+      "precio": 334.31,
+      "stock": 282,
+      "categoria": "tablets"
+    },
+    {
+      "id": 679,
+      "nombre": "SSD Pro",
+      "precio": 848.37,
+      "stock": 223,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 680,
+      "nombre": "SSD Essential",
+      "precio": 1003.35,
+      "stock": 26,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 681,
+      "nombre": "Bluetooth Earbuds Pro",
+      "precio": 1462.6,
+      "stock": 241,
+      "categoria": "redes"
+    },
+    {
+      "id": 682,
+      "nombre": "Backpack Pro",
+      "precio": 1147.42,
+      "stock": 213,
+      "categoria": "redes"
+    },
+    {
+      "id": 683,
+      "nombre": "USB Hub Core",
+      "precio": 1182.83,
+      "stock": 79,
+      "categoria": "laptop"
+    },
+    {
+      "id": 684,
+      "nombre": "Cooling Pad Essential",
+      "precio": 113.57,
+      "stock": 75,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 685,
+      "nombre": "Tablet Premium",
+      "precio": 462.59,
+      "stock": 9,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 686,
+      "nombre": "Laptop Max",
+      "precio": 752.86,
+      "stock": 118,
+      "categoria": "audio"
+    },
+    {
+      "id": 687,
+      "nombre": "Router Max",
+      "precio": 295.38,
+      "stock": 261,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 688,
+      "nombre": "Switch Plus",
+      "precio": 1137.34,
+      "stock": 211,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 689,
+      "nombre": "Webcam Core",
+      "precio": 707.76,
+      "stock": 64,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 690,
+      "nombre": "Mouse Max",
+      "precio": 1174.41,
+      "stock": 241,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 691,
+      "nombre": "Cooling Pad Advanced",
+      "precio": 468.23,
+      "stock": 46,
+      "categoria": "tablets"
+    },
+    {
+      "id": 692,
+      "nombre": "SSD Essential",
+      "precio": 921.52,
+      "stock": 251,
+      "categoria": "redes"
+    },
+    {
+      "id": 693,
+      "nombre": "Charger Core",
+      "precio": 763.32,
+      "stock": 238,
+      "categoria": "laptop"
+    },
+    {
+      "id": 694,
+      "nombre": "WiFi Camera Smart",
+      "precio": 76.08,
+      "stock": 105,
+      "categoria": "tablets"
+    },
+    {
+      "id": 695,
+      "nombre": "Switch Max",
+      "precio": 1241.59,
+      "stock": 215,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 696,
+      "nombre": "Tablet Pro",
+      "precio": 1261.37,
+      "stock": 114,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 697,
+      "nombre": "Cooling Pad Premium",
+      "precio": 871.69,
+      "stock": 87,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 698,
+      "nombre": "Laptop Plus",
+      "precio": 1150.51,
+      "stock": 189,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 699,
+      "nombre": "Monitor Ultra",
+      "precio": 1198.14,
+      "stock": 49,
+      "categoria": "audio"
+    },
+    {
+      "id": 700,
+      "nombre": "Backpack Plus",
+      "precio": 711.47,
+      "stock": 60,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 701,
+      "nombre": "Cooling Pad Advanced",
+      "precio": 377.43,
+      "stock": 10,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 702,
+      "nombre": "Monitor Core",
+      "precio": 508.03,
+      "stock": 276,
+      "categoria": "laptop"
+    },
+    {
+      "id": 703,
+      "nombre": "Backpack Ultra",
+      "precio": 623.93,
+      "stock": 279,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 704,
+      "nombre": "Monitor Premium",
+      "precio": 834.8,
+      "stock": 118,
+      "categoria": "tablets"
+    },
+    {
+      "id": 705,
+      "nombre": "Tablet Elite",
+      "precio": 591.52,
+      "stock": 197,
+      "categoria": "audio"
+    },
+    {
+      "id": 706,
+      "nombre": "Switch Premium",
+      "precio": 281.32,
+      "stock": 290,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 707,
+      "nombre": "USB Hub Pro",
+      "precio": 1447.46,
+      "stock": 121,
+      "categoria": "tablets"
+    },
+    {
+      "id": 708,
+      "nombre": "Webcam Smart",
+      "precio": 316.29,
+      "stock": 298,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 709,
+      "nombre": "Keyboard Advanced",
+      "precio": 1021.94,
+      "stock": 241,
+      "categoria": "componentes"
+    },
+    {
+      "id": 710,
+      "nombre": "Mouse Ultra",
+      "precio": 1074.39,
+      "stock": 220,
+      "categoria": "componentes"
+    },
+    {
+      "id": 711,
+      "nombre": "Webcam Premium",
+      "precio": 1195.6,
+      "stock": 244,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 712,
+      "nombre": "USB Hub Elite",
+      "precio": 320.76,
+      "stock": 216,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 713,
+      "nombre": "SSD Essential",
+      "precio": 508.18,
+      "stock": 67,
+      "categoria": "laptop"
+    },
+    {
+      "id": 714,
+      "nombre": "Cooling Pad Premium",
+      "precio": 299.16,
+      "stock": 203,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 715,
+      "nombre": "Charger Advanced",
+      "precio": 1058.98,
+      "stock": 195,
+      "categoria": "periférico"
+    },
+    {
+      "id": 716,
+      "nombre": "HDD Ultra",
+      "precio": 115.32,
+      "stock": 85,
+      "categoria": "componentes"
+    },
+    {
+      "id": 717,
+      "nombre": "Webcam Elite",
+      "precio": 1441.51,
+      "stock": 128,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 718,
+      "nombre": "Laptop Pro",
+      "precio": 1198.76,
+      "stock": 194,
+      "categoria": "periférico"
+    },
+    {
+      "id": 719,
+      "nombre": "Graphics Card Plus",
+      "precio": 711.76,
+      "stock": 193,
+      "categoria": "componentes"
+    },
+    {
+      "id": 720,
+      "nombre": "Monitor Ultra",
+      "precio": 847.57,
+      "stock": 29,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 721,
+      "nombre": "WiFi Camera Smart",
+      "precio": 747.48,
+      "stock": 138,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 722,
+      "nombre": "Router Advanced",
+      "precio": 1126.84,
+      "stock": 289,
+      "categoria": "audio"
+    },
+    {
+      "id": 723,
+      "nombre": "Headset Elite",
+      "precio": 183.78,
+      "stock": 60,
+      "categoria": "redes"
+    },
+    {
+      "id": 724,
+      "nombre": "SSD Premium",
+      "precio": 989.29,
+      "stock": 155,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 725,
+      "nombre": "Headset Max",
+      "precio": 895.18,
+      "stock": 140,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 726,
+      "nombre": "Tablet Smart",
+      "precio": 648.12,
+      "stock": 104,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 727,
+      "nombre": "Headset Core",
+      "precio": 585.35,
+      "stock": 226,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 728,
+      "nombre": "Monitor Premium",
+      "precio": 1286.56,
+      "stock": 199,
+      "categoria": "componentes"
+    },
+    {
+      "id": 729,
+      "nombre": "Bluetooth Earbuds Premium",
+      "precio": 683.67,
+      "stock": 201,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 730,
+      "nombre": "SSD Core",
+      "precio": 1410.11,
+      "stock": 139,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 731,
+      "nombre": "Tablet Plus",
+      "precio": 1060.47,
+      "stock": 1,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 732,
+      "nombre": "Charger Premium",
+      "precio": 1423.3,
+      "stock": 258,
+      "categoria": "periférico"
+    },
+    {
+      "id": 733,
+      "nombre": "Tablet Ultra",
+      "precio": 1418.1,
+      "stock": 107,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 734,
+      "nombre": "Bluetooth Earbuds Plus",
+      "precio": 239.87,
+      "stock": 111,
+      "categoria": "tablets"
+    },
+    {
+      "id": 735,
+      "nombre": "Printer Pro",
+      "precio": 840.0,
+      "stock": 22,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 736,
+      "nombre": "Mouse Premium",
+      "precio": 1442.91,
+      "stock": 54,
+      "categoria": "componentes"
+    },
+    {
+      "id": 737,
+      "nombre": "USB Hub Premium",
+      "precio": 1111.92,
+      "stock": 134,
+      "categoria": "audio"
+    },
+    {
+      "id": 738,
+      "nombre": "Backpack Smart",
+      "precio": 1355.79,
+      "stock": 97,
+      "categoria": "laptop"
+    },
+    {
+      "id": 739,
+      "nombre": "Printer Advanced",
+      "precio": 1108.63,
+      "stock": 270,
+      "categoria": "tablets"
+    },
+    {
+      "id": 740,
+      "nombre": "Headset Core",
+      "precio": 628.69,
+      "stock": 120,
+      "categoria": "laptop"
+    },
+    {
+      "id": 741,
+      "nombre": "Printer Plus",
+      "precio": 365.28,
+      "stock": 272,
+      "categoria": "periférico"
+    },
+    {
+      "id": 742,
+      "nombre": "Headset Core",
+      "precio": 850.53,
+      "stock": 145,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 743,
+      "nombre": "SSD Advanced",
+      "precio": 152.2,
+      "stock": 106,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 744,
+      "nombre": "USB Hub Premium",
+      "precio": 1229.42,
+      "stock": 293,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 745,
+      "nombre": "Backpack Smart",
+      "precio": 251.93,
+      "stock": 37,
+      "categoria": "componentes"
+    },
+    {
+      "id": 746,
+      "nombre": "Bluetooth Earbuds Core",
+      "precio": 1097.39,
+      "stock": 192,
+      "categoria": "audio"
+    },
+    {
+      "id": 747,
+      "nombre": "Printer Essential",
+      "precio": 748.25,
+      "stock": 272,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 748,
+      "nombre": "Webcam Premium",
+      "precio": 1075.9,
+      "stock": 163,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 749,
+      "nombre": "WiFi Camera Max",
+      "precio": 156.95,
+      "stock": 78,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 750,
+      "nombre": "WiFi Camera Pro",
+      "precio": 468.87,
+      "stock": 211,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 751,
+      "nombre": "Router Plus",
+      "precio": 1118.48,
+      "stock": 16,
+      "categoria": "redes"
+    },
+    {
+      "id": 752,
+      "nombre": "Keyboard Pro",
+      "precio": 882.97,
+      "stock": 269,
+      "categoria": "componentes"
+    },
+    {
+      "id": 753,
+      "nombre": "Tablet Core",
+      "precio": 155.37,
+      "stock": 87,
+      "categoria": "laptop"
+    },
+    {
+      "id": 754,
+      "nombre": "Laptop Elite",
+      "precio": 192.36,
+      "stock": 266,
+      "categoria": "periférico"
+    },
+    {
+      "id": 755,
+      "nombre": "Charger Core",
+      "precio": 710.26,
+      "stock": 237,
+      "categoria": "componentes"
+    },
+    {
+      "id": 756,
+      "nombre": "Webcam Essential",
+      "precio": 164.1,
+      "stock": 187,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 757,
+      "nombre": "Mouse Elite",
+      "precio": 998.3,
+      "stock": 277,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 758,
+      "nombre": "Backpack Ultra",
+      "precio": 475.9,
+      "stock": 32,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 759,
+      "nombre": "Backpack Ultra",
+      "precio": 796.26,
+      "stock": 278,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 760,
+      "nombre": "Mouse Plus",
+      "precio": 682.37,
+      "stock": 112,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 761,
+      "nombre": "Headset Core",
+      "precio": 928.69,
+      "stock": 85,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 762,
+      "nombre": "Graphics Card Max",
+      "precio": 262.7,
+      "stock": 266,
+      "categoria": "redes"
+    },
+    {
+      "id": 763,
+      "nombre": "Speakers Elite",
+      "precio": 756.42,
+      "stock": 61,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 764,
+      "nombre": "Laptop Plus",
+      "precio": 763.8,
+      "stock": 27,
+      "categoria": "audio"
+    },
+    {
+      "id": 765,
+      "nombre": "Webcam Smart",
+      "precio": 1452.57,
+      "stock": 16,
+      "categoria": "audio"
+    },
+    {
+      "id": 766,
+      "nombre": "HDD Core",
+      "precio": 1231.13,
+      "stock": 59,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 767,
+      "nombre": "Keyboard Max",
+      "precio": 705.39,
+      "stock": 129,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 768,
+      "nombre": "Bluetooth Earbuds Ultra",
+      "precio": 205.36,
+      "stock": 64,
+      "categoria": "audio"
+    },
+    {
+      "id": 769,
+      "nombre": "Charger Essential",
+      "precio": 1476.24,
+      "stock": 142,
+      "categoria": "periférico"
+    },
+    {
+      "id": 770,
+      "nombre": "Switch Core",
+      "precio": 1068.82,
+      "stock": 77,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 771,
+      "nombre": "Switch Max",
+      "precio": 767.87,
+      "stock": 66,
+      "categoria": "redes"
+    },
+    {
+      "id": 772,
+      "nombre": "SSD Core",
+      "precio": 839.45,
+      "stock": 261,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 773,
+      "nombre": "Tablet Core",
+      "precio": 1354.92,
+      "stock": 200,
+      "categoria": "periférico"
+    },
+    {
+      "id": 774,
+      "nombre": "Keyboard Pro",
+      "precio": 811.92,
+      "stock": 135,
+      "categoria": "redes"
+    },
+    {
+      "id": 775,
+      "nombre": "Cooling Pad Pro",
+      "precio": 1071.99,
+      "stock": 181,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 776,
+      "nombre": "Laptop Core",
+      "precio": 261.06,
+      "stock": 84,
+      "categoria": "redes"
+    },
+    {
+      "id": 777,
+      "nombre": "Tablet Max",
+      "precio": 249.99,
+      "stock": 165,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 778,
+      "nombre": "Backpack Elite",
+      "precio": 96.4,
+      "stock": 260,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 779,
+      "nombre": "Speakers Premium",
+      "precio": 515.73,
+      "stock": 97,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 780,
+      "nombre": "Printer Plus",
+      "precio": 297.71,
+      "stock": 8,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 781,
+      "nombre": "SSD Ultra",
+      "precio": 1028.53,
+      "stock": 88,
+      "categoria": "tablets"
+    },
+    {
+      "id": 782,
+      "nombre": "Mouse Premium",
+      "precio": 535.68,
+      "stock": 244,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 783,
+      "nombre": "Speakers Elite",
+      "precio": 508.34,
+      "stock": 228,
+      "categoria": "laptop"
+    },
+    {
+      "id": 784,
+      "nombre": "Printer Essential",
+      "precio": 468.28,
+      "stock": 141,
+      "categoria": "laptop"
+    },
+    {
+      "id": 785,
+      "nombre": "Bluetooth Earbuds Smart",
+      "precio": 1460.35,
+      "stock": 277,
+      "categoria": "redes"
+    },
+    {
+      "id": 786,
+      "nombre": "USB Hub Max",
+      "precio": 465.32,
+      "stock": 262,
+      "categoria": "componentes"
+    },
+    {
+      "id": 787,
+      "nombre": "Switch Essential",
+      "precio": 1471.98,
+      "stock": 191,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 788,
+      "nombre": "Webcam Core",
+      "precio": 1011.35,
+      "stock": 135,
+      "categoria": "tablets"
+    },
+    {
+      "id": 789,
+      "nombre": "Monitor Essential",
+      "precio": 525.19,
+      "stock": 159,
+      "categoria": "periférico"
+    },
+    {
+      "id": 790,
+      "nombre": "Graphics Card Max",
+      "precio": 540.69,
+      "stock": 237,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 791,
+      "nombre": "Printer Core",
+      "precio": 417.51,
+      "stock": 193,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 792,
+      "nombre": "Graphics Card Max",
+      "precio": 984.27,
+      "stock": 115,
+      "categoria": "periférico"
+    },
+    {
+      "id": 793,
+      "nombre": "Mouse Smart",
+      "precio": 989.72,
+      "stock": 120,
+      "categoria": "audio"
+    },
+    {
+      "id": 794,
+      "nombre": "Laptop Plus",
+      "precio": 1472.84,
+      "stock": 94,
+      "categoria": "tablets"
+    },
+    {
+      "id": 795,
+      "nombre": "Bluetooth Earbuds Premium",
+      "precio": 751.23,
+      "stock": 203,
+      "categoria": "laptop"
+    },
+    {
+      "id": 796,
+      "nombre": "Cooling Pad Pro",
+      "precio": 887.33,
+      "stock": 127,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 797,
+      "nombre": "Charger Advanced",
+      "precio": 612.7,
+      "stock": 32,
+      "categoria": "tablets"
+    },
+    {
+      "id": 798,
+      "nombre": "Keyboard Elite",
+      "precio": 704.44,
+      "stock": 283,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 799,
+      "nombre": "Laptop Ultra",
+      "precio": 242.33,
+      "stock": 129,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 800,
+      "nombre": "Router Essential",
+      "precio": 818.02,
+      "stock": 243,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 801,
+      "nombre": "Webcam Max",
+      "precio": 118.85,
+      "stock": 236,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 802,
+      "nombre": "Speakers Plus",
+      "precio": 831.34,
+      "stock": 141,
+      "categoria": "componentes"
+    },
+    {
+      "id": 803,
+      "nombre": "Tablet Advanced",
+      "precio": 1165.6,
+      "stock": 203,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 804,
+      "nombre": "Mouse Core",
+      "precio": 834.66,
+      "stock": 171,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 805,
+      "nombre": "Backpack Pro",
+      "precio": 1042.6,
+      "stock": 88,
+      "categoria": "tablets"
+    },
+    {
+      "id": 806,
+      "nombre": "Laptop Essential",
+      "precio": 641.92,
+      "stock": 236,
+      "categoria": "componentes"
+    },
+    {
+      "id": 807,
+      "nombre": "Backpack Smart",
+      "precio": 1037.33,
+      "stock": 9,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 808,
+      "nombre": "Switch Elite",
+      "precio": 1178.55,
+      "stock": 227,
+      "categoria": "periférico"
+    },
+    {
+      "id": 809,
+      "nombre": "Graphics Card Premium",
+      "precio": 1273.69,
+      "stock": 297,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 810,
+      "nombre": "Graphics Card Ultra",
+      "precio": 1286.33,
+      "stock": 279,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 811,
+      "nombre": "Tablet Ultra",
+      "precio": 899.8,
+      "stock": 187,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 812,
+      "nombre": "Cooling Pad Max",
+      "precio": 1497.21,
+      "stock": 286,
+      "categoria": "audio"
+    },
+    {
+      "id": 813,
+      "nombre": "Backpack Essential",
+      "precio": 1078.45,
+      "stock": 85,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 814,
+      "nombre": "Switch Core",
+      "precio": 545.92,
+      "stock": 190,
+      "categoria": "redes"
+    },
+    {
+      "id": 815,
+      "nombre": "Backpack Essential",
+      "precio": 1474.7,
+      "stock": 43,
+      "categoria": "tablets"
+    },
+    {
+      "id": 816,
+      "nombre": "Graphics Card Premium",
+      "precio": 978.49,
+      "stock": 6,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 817,
+      "nombre": "Switch Essential",
+      "precio": 717.99,
+      "stock": 279,
+      "categoria": "redes"
+    },
+    {
+      "id": 818,
+      "nombre": "Laptop Pro",
+      "precio": 275.62,
+      "stock": 62,
+      "categoria": "tablets"
+    },
+    {
+      "id": 819,
+      "nombre": "Charger Core",
+      "precio": 356.71,
+      "stock": 13,
+      "categoria": "laptop"
+    },
+    {
+      "id": 820,
+      "nombre": "USB Hub Smart",
+      "precio": 1236.26,
+      "stock": 61,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 821,
+      "nombre": "USB Hub Essential",
+      "precio": 400.05,
+      "stock": 148,
+      "categoria": "laptop"
+    },
+    {
+      "id": 822,
+      "nombre": "Headset Advanced",
+      "precio": 961.13,
+      "stock": 294,
+      "categoria": "laptop"
+    },
+    {
+      "id": 823,
+      "nombre": "Printer Pro",
+      "precio": 426.73,
+      "stock": 231,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 824,
+      "nombre": "Bluetooth Earbuds Ultra",
+      "precio": 932.9,
+      "stock": 22,
+      "categoria": "periférico"
+    },
+    {
+      "id": 825,
+      "nombre": "Switch Core",
+      "precio": 1334.79,
+      "stock": 275,
+      "categoria": "audio"
+    },
+    {
+      "id": 826,
+      "nombre": "Webcam Elite",
+      "precio": 1026.82,
+      "stock": 232,
+      "categoria": "periférico"
+    },
+    {
+      "id": 827,
+      "nombre": "Monitor Smart",
+      "precio": 1167.12,
+      "stock": 112,
+      "categoria": "laptop"
+    },
+    {
+      "id": 828,
+      "nombre": "HDD Premium",
+      "precio": 972.17,
+      "stock": 126,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 829,
+      "nombre": "Backpack Pro",
+      "precio": 948.02,
+      "stock": 177,
+      "categoria": "componentes"
+    },
+    {
+      "id": 830,
+      "nombre": "Printer Smart",
+      "precio": 1343.8,
+      "stock": 168,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 831,
+      "nombre": "Printer Elite",
+      "precio": 153.51,
+      "stock": 257,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 832,
+      "nombre": "Laptop Essential",
+      "precio": 527.62,
+      "stock": 156,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 833,
+      "nombre": "Headset Smart",
+      "precio": 1069.6,
+      "stock": 222,
+      "categoria": "redes"
+    },
+    {
+      "id": 834,
+      "nombre": "Switch Premium",
+      "precio": 534.04,
+      "stock": 1,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 835,
+      "nombre": "WiFi Camera Plus",
+      "precio": 771.89,
+      "stock": 85,
+      "categoria": "redes"
+    },
+    {
+      "id": 836,
+      "nombre": "Laptop Premium",
+      "precio": 1082.83,
+      "stock": 26,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 837,
+      "nombre": "SSD Premium",
+      "precio": 1494.64,
+      "stock": 226,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 838,
+      "nombre": "Bluetooth Earbuds Max",
+      "precio": 676.44,
+      "stock": 205,
+      "categoria": "laptop"
+    },
+    {
+      "id": 839,
+      "nombre": "Laptop Max",
+      "precio": 1421.66,
+      "stock": 145,
+      "categoria": "audio"
+    },
+    {
+      "id": 840,
+      "nombre": "Mouse Advanced",
+      "precio": 1152.29,
+      "stock": 75,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 841,
+      "nombre": "Mouse Advanced",
+      "precio": 816.68,
+      "stock": 49,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 842,
+      "nombre": "HDD Advanced",
+      "precio": 1111.82,
+      "stock": 283,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 843,
+      "nombre": "Laptop Elite",
+      "precio": 487.84,
+      "stock": 295,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 844,
+      "nombre": "Mouse Advanced",
+      "precio": 361.3,
+      "stock": 106,
+      "categoria": "componentes"
+    },
+    {
+      "id": 845,
+      "nombre": "HDD Ultra",
+      "precio": 640.82,
+      "stock": 46,
+      "categoria": "componentes"
+    },
+    {
+      "id": 846,
+      "nombre": "Charger Smart",
+      "precio": 315.73,
+      "stock": 217,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 847,
+      "nombre": "Webcam Pro",
+      "precio": 1135.55,
+      "stock": 66,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 848,
+      "nombre": "Tablet Max",
+      "precio": 1487.48,
+      "stock": 248,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 849,
+      "nombre": "Mouse Pro",
+      "precio": 1024.95,
+      "stock": 117,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 850,
+      "nombre": "Headset Premium",
+      "precio": 77.77,
+      "stock": 49,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 851,
+      "nombre": "Graphics Card Max",
+      "precio": 1191.4,
+      "stock": 87,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 852,
+      "nombre": "Laptop Essential",
+      "precio": 842.81,
+      "stock": 5,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 853,
+      "nombre": "Graphics Card Essential",
+      "precio": 912.79,
+      "stock": 39,
+      "categoria": "componentes"
+    },
+    {
+      "id": 854,
+      "nombre": "Charger Core",
+      "precio": 1298.15,
+      "stock": 199,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 855,
+      "nombre": "Laptop Smart",
+      "precio": 59.61,
+      "stock": 296,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 856,
+      "nombre": "Charger Ultra",
+      "precio": 182.36,
+      "stock": 175,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 857,
+      "nombre": "SSD Ultra",
+      "precio": 1311.71,
+      "stock": 17,
+      "categoria": "audio"
+    },
+    {
+      "id": 858,
+      "nombre": "Speakers Smart",
+      "precio": 443.3,
+      "stock": 264,
+      "categoria": "laptop"
+    },
+    {
+      "id": 859,
+      "nombre": "Tablet Premium",
+      "precio": 416.21,
+      "stock": 153,
+      "categoria": "periférico"
+    },
+    {
+      "id": 860,
+      "nombre": "Headset Elite",
+      "precio": 24.46,
+      "stock": 64,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 861,
+      "nombre": "Monitor Essential",
+      "precio": 268.32,
+      "stock": 214,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 862,
+      "nombre": "Graphics Card Elite",
+      "precio": 784.13,
+      "stock": 255,
+      "categoria": "componentes"
+    },
+    {
+      "id": 863,
+      "nombre": "HDD Plus",
+      "precio": 1426.73,
+      "stock": 133,
+      "categoria": "periférico"
+    },
+    {
+      "id": 864,
+      "nombre": "Tablet Core",
+      "precio": 872.41,
+      "stock": 124,
+      "categoria": "redes"
+    },
+    {
+      "id": 865,
+      "nombre": "Keyboard Ultra",
+      "precio": 1316.0,
+      "stock": 40,
+      "categoria": "componentes"
+    },
+    {
+      "id": 866,
+      "nombre": "Laptop Pro",
+      "precio": 998.44,
+      "stock": 104,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 867,
+      "nombre": "Router Plus",
+      "precio": 979.19,
+      "stock": 179,
+      "categoria": "tablets"
+    },
+    {
+      "id": 868,
+      "nombre": "Cooling Pad Ultra",
+      "precio": 727.83,
+      "stock": 84,
+      "categoria": "periférico"
+    },
+    {
+      "id": 869,
+      "nombre": "HDD Plus",
+      "precio": 1006.83,
+      "stock": 112,
+      "categoria": "laptop"
+    },
+    {
+      "id": 870,
+      "nombre": "Headset Max",
+      "precio": 1303.77,
+      "stock": 283,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 871,
+      "nombre": "Cooling Pad Pro",
+      "precio": 562.68,
+      "stock": 157,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 872,
+      "nombre": "Headset Ultra",
+      "precio": 565.68,
+      "stock": 1,
+      "categoria": "periférico"
+    },
+    {
+      "id": 873,
+      "nombre": "Speakers Smart",
+      "precio": 1415.49,
+      "stock": 6,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 874,
+      "nombre": "Webcam Elite",
+      "precio": 157.85,
+      "stock": 34,
+      "categoria": "tablets"
+    },
+    {
+      "id": 875,
+      "nombre": "Webcam Smart",
+      "precio": 1145.22,
+      "stock": 288,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 876,
+      "nombre": "USB Hub Pro",
+      "precio": 907.94,
+      "stock": 222,
+      "categoria": "laptop"
+    },
+    {
+      "id": 877,
+      "nombre": "HDD Max",
+      "precio": 1441.66,
+      "stock": 286,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 878,
+      "nombre": "Monitor Essential",
+      "precio": 670.21,
+      "stock": 6,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 879,
+      "nombre": "Monitor Premium",
+      "precio": 524.57,
+      "stock": 6,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 880,
+      "nombre": "Tablet Pro",
+      "precio": 127.73,
+      "stock": 200,
+      "categoria": "laptop"
+    },
+    {
+      "id": 881,
+      "nombre": "Mouse Premium",
+      "precio": 347.18,
+      "stock": 172,
+      "categoria": "redes"
+    },
+    {
+      "id": 882,
+      "nombre": "Mouse Premium",
+      "precio": 154.75,
+      "stock": 85,
+      "categoria": "componentes"
+    },
+    {
+      "id": 883,
+      "nombre": "Router Core",
+      "precio": 211.46,
+      "stock": 19,
+      "categoria": "tablets"
+    },
+    {
+      "id": 884,
+      "nombre": "Headset Premium",
+      "precio": 735.68,
+      "stock": 228,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 885,
+      "nombre": "USB Hub Plus",
+      "precio": 1197.58,
+      "stock": 224,
+      "categoria": "tablets"
+    },
+    {
+      "id": 886,
+      "nombre": "USB Hub Advanced",
+      "precio": 847.07,
+      "stock": 44,
+      "categoria": "laptop"
+    },
+    {
+      "id": 887,
+      "nombre": "Laptop Smart",
+      "precio": 442.94,
+      "stock": 201,
+      "categoria": "componentes"
+    },
+    {
+      "id": 888,
+      "nombre": "SSD Smart",
+      "precio": 1410.08,
+      "stock": 184,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 889,
+      "nombre": "SSD Elite",
+      "precio": 443.39,
+      "stock": 261,
+      "categoria": "componentes"
+    },
+    {
+      "id": 890,
+      "nombre": "Charger Advanced",
+      "precio": 301.94,
+      "stock": 60,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 891,
+      "nombre": "WiFi Camera Premium",
+      "precio": 1495.91,
+      "stock": 179,
+      "categoria": "audio"
+    },
+    {
+      "id": 892,
+      "nombre": "HDD Pro",
+      "precio": 883.34,
+      "stock": 77,
+      "categoria": "redes"
+    },
+    {
+      "id": 893,
+      "nombre": "Mouse Essential",
+      "precio": 1371.32,
+      "stock": 71,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 894,
+      "nombre": "Tablet Max",
+      "precio": 381.02,
+      "stock": 79,
+      "categoria": "laptop"
+    },
+    {
+      "id": 895,
+      "nombre": "Charger Elite",
+      "precio": 605.62,
+      "stock": 300,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 896,
+      "nombre": "Laptop Pro",
+      "precio": 470.43,
+      "stock": 10,
+      "categoria": "laptop"
+    },
+    {
+      "id": 897,
+      "nombre": "Headset Premium",
+      "precio": 1154.26,
+      "stock": 220,
+      "categoria": "audio"
+    },
+    {
+      "id": 898,
+      "nombre": "Webcam Advanced",
+      "precio": 73.38,
+      "stock": 17,
+      "categoria": "componentes"
+    },
+    {
+      "id": 899,
+      "nombre": "Cooling Pad Core",
+      "precio": 214.9,
+      "stock": 69,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 900,
+      "nombre": "Webcam Pro",
+      "precio": 464.59,
+      "stock": 89,
+      "categoria": "componentes"
+    },
+    {
+      "id": 901,
+      "nombre": "Graphics Card Elite",
+      "precio": 517.25,
+      "stock": 274,
+      "categoria": "componentes"
+    },
+    {
+      "id": 902,
+      "nombre": "USB Hub Smart",
+      "precio": 1093.43,
+      "stock": 285,
+      "categoria": "laptop"
+    },
+    {
+      "id": 903,
+      "nombre": "Bluetooth Earbuds Ultra",
+      "precio": 130.77,
+      "stock": 70,
+      "categoria": "componentes"
+    },
+    {
+      "id": 904,
+      "nombre": "Router Premium",
+      "precio": 94.56,
+      "stock": 175,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 905,
+      "nombre": "SSD Ultra",
+      "precio": 896.11,
+      "stock": 296,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 906,
+      "nombre": "Cooling Pad Smart",
+      "precio": 1062.3,
+      "stock": 266,
+      "categoria": "periférico"
+    },
+    {
+      "id": 907,
+      "nombre": "Headset Essential",
+      "precio": 514.51,
+      "stock": 173,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 908,
+      "nombre": "Bluetooth Earbuds Max",
+      "precio": 757.1,
+      "stock": 201,
+      "categoria": "redes"
+    },
+    {
+      "id": 909,
+      "nombre": "Backpack Max",
+      "precio": 279.4,
+      "stock": 144,
+      "categoria": "audio"
+    },
+    {
+      "id": 910,
+      "nombre": "Printer Premium",
+      "precio": 731.78,
+      "stock": 259,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 911,
+      "nombre": "Bluetooth Earbuds Ultra",
+      "precio": 1133.64,
+      "stock": 67,
+      "categoria": "periférico"
+    },
+    {
+      "id": 912,
+      "nombre": "Bluetooth Earbuds Elite",
+      "precio": 592.7,
+      "stock": 49,
+      "categoria": "redes"
+    },
+    {
+      "id": 913,
+      "nombre": "Webcam Pro",
+      "precio": 264.84,
+      "stock": 17,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 914,
+      "nombre": "USB Hub Essential",
+      "precio": 1026.94,
+      "stock": 192,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 915,
+      "nombre": "HDD Pro",
+      "precio": 111.48,
+      "stock": 118,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 916,
+      "nombre": "Monitor Advanced",
+      "precio": 751.32,
+      "stock": 127,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 917,
+      "nombre": "Keyboard Pro",
+      "precio": 556.18,
+      "stock": 138,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 918,
+      "nombre": "WiFi Camera Plus",
+      "precio": 1263.83,
+      "stock": 286,
+      "categoria": "redes"
+    },
+    {
+      "id": 919,
+      "nombre": "HDD Ultra",
+      "precio": 1268.9,
+      "stock": 205,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 920,
+      "nombre": "WiFi Camera Advanced",
+      "precio": 327.17,
+      "stock": 88,
+      "categoria": "periférico"
+    },
+    {
+      "id": 921,
+      "nombre": "Keyboard Elite",
+      "precio": 1309.01,
+      "stock": 53,
+      "categoria": "audio"
+    },
+    {
+      "id": 922,
+      "nombre": "Graphics Card Smart",
+      "precio": 342.21,
+      "stock": 110,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 923,
+      "nombre": "Laptop Pro",
+      "precio": 1405.31,
+      "stock": 185,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 924,
+      "nombre": "HDD Max",
+      "precio": 933.9,
+      "stock": 50,
+      "categoria": "periférico"
+    },
+    {
+      "id": 925,
+      "nombre": "Tablet Core",
+      "precio": 503.95,
+      "stock": 55,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 926,
+      "nombre": "Backpack Premium",
+      "precio": 382.74,
+      "stock": 250,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 927,
+      "nombre": "Webcam Advanced",
+      "precio": 1236.48,
+      "stock": 68,
+      "categoria": "audio"
+    },
+    {
+      "id": 928,
+      "nombre": "WiFi Camera Essential",
+      "precio": 641.0,
+      "stock": 239,
+      "categoria": "redes"
+    },
+    {
+      "id": 929,
+      "nombre": "Router Core",
+      "precio": 1496.43,
+      "stock": 237,
+      "categoria": "redes"
+    },
+    {
+      "id": 930,
+      "nombre": "Bluetooth Earbuds Ultra",
+      "precio": 1207.42,
+      "stock": 178,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 931,
+      "nombre": "Speakers Advanced",
+      "precio": 1316.83,
+      "stock": 47,
+      "categoria": "laptop"
+    },
+    {
+      "id": 932,
+      "nombre": "SSD Plus",
+      "precio": 1451.7,
+      "stock": 150,
+      "categoria": "laptop"
+    },
+    {
+      "id": 933,
+      "nombre": "Cooling Pad Smart",
+      "precio": 302.98,
+      "stock": 150,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 934,
+      "nombre": "Printer Core",
+      "precio": 1136.83,
+      "stock": 291,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 935,
+      "nombre": "Speakers Premium",
+      "precio": 49.75,
+      "stock": 271,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 936,
+      "nombre": "Switch Elite",
+      "precio": 850.7,
+      "stock": 222,
+      "categoria": "laptop"
+    },
+    {
+      "id": 937,
+      "nombre": "HDD Elite",
+      "precio": 685.0,
+      "stock": 19,
+      "categoria": "audio"
+    },
+    {
+      "id": 938,
+      "nombre": "Cooling Pad Core",
+      "precio": 540.87,
+      "stock": 109,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 939,
+      "nombre": "Router Smart",
+      "precio": 1386.65,
+      "stock": 110,
+      "categoria": "tablets"
+    },
+    {
+      "id": 940,
+      "nombre": "USB Hub Ultra",
+      "precio": 250.41,
+      "stock": 147,
+      "categoria": "periférico"
+    },
+    {
+      "id": 941,
+      "nombre": "Switch Premium",
+      "precio": 1024.6,
+      "stock": 221,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 942,
+      "nombre": "USB Hub Smart",
+      "precio": 1442.45,
+      "stock": 97,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 943,
+      "nombre": "WiFi Camera Ultra",
+      "precio": 1087.62,
+      "stock": 97,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 944,
+      "nombre": "Cooling Pad Max",
+      "precio": 1211.45,
+      "stock": 294,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 945,
+      "nombre": "Graphics Card Elite",
+      "precio": 190.39,
+      "stock": 209,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 946,
+      "nombre": "Cooling Pad Advanced",
+      "precio": 485.45,
+      "stock": 80,
+      "categoria": "laptop"
+    },
+    {
+      "id": 947,
+      "nombre": "SSD Essential",
+      "precio": 463.04,
+      "stock": 171,
+      "categoria": "laptop"
+    },
+    {
+      "id": 948,
+      "nombre": "Laptop Essential",
+      "precio": 211.02,
+      "stock": 165,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 949,
+      "nombre": "Mouse Core",
+      "precio": 295.76,
+      "stock": 110,
+      "categoria": "redes"
+    },
+    {
+      "id": 950,
+      "nombre": "Laptop Advanced",
+      "precio": 557.68,
+      "stock": 193,
+      "categoria": "laptop"
+    },
+    {
+      "id": 951,
+      "nombre": "Graphics Card Ultra",
+      "precio": 884.63,
+      "stock": 288,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 952,
+      "nombre": "Printer Pro",
+      "precio": 940.08,
+      "stock": 294,
+      "categoria": "tablets"
+    },
+    {
+      "id": 953,
+      "nombre": "Charger Elite",
+      "precio": 653.63,
+      "stock": 115,
+      "categoria": "redes"
+    },
+    {
+      "id": 954,
+      "nombre": "Mouse Elite",
+      "precio": 154.96,
+      "stock": 106,
+      "categoria": "componentes"
+    },
+    {
+      "id": 955,
+      "nombre": "Mouse Pro",
+      "precio": 1154.34,
+      "stock": 254,
+      "categoria": "laptop"
+    },
+    {
+      "id": 956,
+      "nombre": "Webcam Elite",
+      "precio": 900.84,
+      "stock": 50,
+      "categoria": "accesorios"
+    },
+    {
+      "id": 957,
+      "nombre": "Backpack Plus",
+      "precio": 664.04,
+      "stock": 275,
+      "categoria": "audio"
+    },
+    {
+      "id": 958,
+      "nombre": "Tablet Core",
+      "precio": 33.02,
+      "stock": 60,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 959,
+      "nombre": "Keyboard Essential",
+      "precio": 1441.56,
+      "stock": 278,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 960,
+      "nombre": "USB Hub Elite",
+      "precio": 1358.51,
+      "stock": 241,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 961,
+      "nombre": "WiFi Camera Pro",
+      "precio": 693.83,
+      "stock": 282,
+      "categoria": "tablets"
+    },
+    {
+      "id": 962,
+      "nombre": "Bluetooth Earbuds Smart",
+      "precio": 416.35,
+      "stock": 218,
+      "categoria": "periférico"
+    },
+    {
+      "id": 963,
+      "nombre": "Speakers Core",
+      "precio": 264.3,
+      "stock": 127,
+      "categoria": "audio"
+    },
+    {
+      "id": 964,
+      "nombre": "Bluetooth Earbuds Ultra",
+      "precio": 1326.1,
+      "stock": 210,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 965,
+      "nombre": "Switch Elite",
+      "precio": 293.99,
+      "stock": 164,
+      "categoria": "tablets"
+    },
+    {
+      "id": 966,
+      "nombre": "USB Hub Pro",
+      "precio": 359.48,
+      "stock": 291,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 967,
+      "nombre": "Laptop Essential",
+      "precio": 489.96,
+      "stock": 43,
+      "categoria": "laptop"
+    },
+    {
+      "id": 968,
+      "nombre": "Webcam Max",
+      "precio": 355.83,
+      "stock": 208,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 969,
+      "nombre": "Switch Advanced",
+      "precio": 848.15,
+      "stock": 264,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 970,
+      "nombre": "Laptop Plus",
+      "precio": 522.09,
+      "stock": 73,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 971,
+      "nombre": "USB Hub Smart",
+      "precio": 1407.79,
+      "stock": 52,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 972,
+      "nombre": "Laptop Plus",
+      "precio": 529.03,
+      "stock": 261,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 973,
+      "nombre": "Keyboard Core",
+      "precio": 1455.59,
+      "stock": 89,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 974,
+      "nombre": "WiFi Camera Max",
+      "precio": 500.4,
+      "stock": 171,
+      "categoria": "componentes"
+    },
+    {
+      "id": 975,
+      "nombre": "HDD Essential",
+      "precio": 89.05,
+      "stock": 236,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 976,
+      "nombre": "Printer Premium",
+      "precio": 1431.96,
+      "stock": 234,
+      "categoria": "tablets"
+    },
+    {
+      "id": 977,
+      "nombre": "WiFi Camera Ultra",
+      "precio": 637.64,
+      "stock": 26,
+      "categoria": "componentes"
+    },
+    {
+      "id": 978,
+      "nombre": "Keyboard Premium",
+      "precio": 881.66,
+      "stock": 173,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 979,
+      "nombre": "Charger Core",
+      "precio": 587.85,
+      "stock": 166,
+      "categoria": "tablets"
+    },
+    {
+      "id": 980,
+      "nombre": "Switch Pro",
+      "precio": 1404.78,
+      "stock": 281,
+      "categoria": "laptop"
+    },
+    {
+      "id": 981,
+      "nombre": "Headset Ultra",
+      "precio": 1447.99,
+      "stock": 110,
+      "categoria": "redes"
+    },
+    {
+      "id": 982,
+      "nombre": "Monitor Plus",
+      "precio": 305.93,
+      "stock": 82,
+      "categoria": "laptop"
+    },
+    {
+      "id": 983,
+      "nombre": "Keyboard Core",
+      "precio": 112.16,
+      "stock": 26,
+      "categoria": "tablets"
+    },
+    {
+      "id": 984,
+      "nombre": "Printer Ultra",
+      "precio": 36.79,
+      "stock": 23,
+      "categoria": "periférico"
+    },
+    {
+      "id": 985,
+      "nombre": "Headset Plus",
+      "precio": 301.49,
+      "stock": 266,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 986,
+      "nombre": "Charger Max",
+      "precio": 499.06,
+      "stock": 137,
+      "categoria": "redes"
+    },
+    {
+      "id": 987,
+      "nombre": "Backpack Premium",
+      "precio": 46.5,
+      "stock": 140,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 988,
+      "nombre": "USB Hub Essential",
+      "precio": 1218.36,
+      "stock": 241,
+      "categoria": "pantalla"
+    },
+    {
+      "id": 989,
+      "nombre": "Printer Smart",
+      "precio": 781.18,
+      "stock": 55,
+      "categoria": "periférico"
+    },
+    {
+      "id": 990,
+      "nombre": "USB Hub Core",
+      "precio": 351.58,
+      "stock": 138,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 991,
+      "nombre": "Monitor Plus",
+      "precio": 396.28,
+      "stock": 171,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 992,
+      "nombre": "SSD Core",
+      "precio": 662.63,
+      "stock": 19,
+      "categoria": "periférico"
+    },
+    {
+      "id": 993,
+      "nombre": "Backpack Plus",
+      "precio": 643.76,
+      "stock": 141,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 994,
+      "nombre": "Printer Pro",
+      "precio": 430.38,
+      "stock": 192,
+      "categoria": "seguridad"
+    },
+    {
+      "id": 995,
+      "nombre": "Webcam Advanced",
+      "precio": 622.23,
+      "stock": 185,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 996,
+      "nombre": "Charger Premium",
+      "precio": 542.05,
+      "stock": 280,
+      "categoria": "impresoras"
+    },
+    {
+      "id": 997,
+      "nombre": "WiFi Camera Elite",
+      "precio": 1393.96,
+      "stock": 54,
+      "categoria": "periférico"
+    },
+    {
+      "id": 998,
+      "nombre": "Backpack Max",
+      "precio": 1452.86,
+      "stock": 59,
+      "categoria": "redes"
+    },
+    {
+      "id": 999,
+      "nombre": "Webcam Ultra",
+      "precio": 226.26,
+      "stock": 34,
+      "categoria": "almacenamiento"
+    },
+    {
+      "id": 1000,
+      "nombre": "Switch Advanced",
+      "precio": 82.62,
+      "stock": 154,
+      "categoria": "almacenamiento"
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "historial": [
+    {
+      "usuario": "admin",
+      "accion": "actualizar_stock",
+      "producto_id": 89,
+      "campo": "stock",
+      "valor_anterior": 112,
+      "valor_nuevo": 23,
+      "fecha": "2025-12-03 10:47:02"
+    },
+    {
+      "usuario": "admin",
+      "accion": "actualizar_stock",
+      "producto_id": 555,
+      "campo": "stock",
+      "valor_anterior": 900,
+      "valor_nuevo": 80,
+      "fecha": "2025-12-03 10:47:45"
+    },
+    {
+      "usuario": "admin",
+      "accion": "actualizar_stock",
+      "producto_id": 56,
+      "campo": "stock",
+      "valor_anterior": 160,
+      "valor_nuevo": 70,
+      "fecha": "2025-12-03 11:46:12"
+    },
+    {
+      "usuario": "admin",
+      "accion": "actualizar_stock",
+      "producto_id": 498,
+      "campo": "stock",
+      "valor_anterior": 46,
+      "valor_nuevo": 60,
+      "fecha": "2025-12-03 12:38:04"
+    },
+    {
+      "usuario": "supervisor",
+      "accion": "actualizar_stock",
+      "producto_id": 999,
+      "campo": "stock",
+      "valor_anterior": 19,
+      "valor_nuevo": 34,
+      "fecha": "2025-12-04 09:48:24"
+    },
+    {
+      "usuario": "admin",
+      "accion": "actualizar_stock",
+      "producto_id": 364,
+      "campo": "stock",
+      "valor_anterior": 227,
+      "valor_nuevo": 127,
+      "fecha": "2025-12-04 13:07:48"
+    },
+    {
+      "usuario": "admin",
+      "accion": "actualizar_precio",
+      "producto_id": 1,
+      "campo": "precio",
+      "valor_anterior": 875.62,
+      "valor_nuevo": 799.99,
+      "fecha": "2025-12-05 11:51:36"
+    },
+    {
+      "usuario": "admin",
+      "accion": "actualizar_precio",
+      "producto_id": 6,
+      "campo": "precio",
+      "valor_anterior": 1468.47,
+      "valor_nuevo": 19.99,
+      "fecha": "2025-12-05 11:58:00"
+    },
+    {
+      "usuario": "admin",
+      "accion": "actualizar_precio",
+      "producto_id": 2,
+      "campo": "precio",
+      "valor_anterior": 556.02,
+      "valor_nuevo": 499.99,
+      "fecha": "2025-12-05 12:02:22"
+    },
+    {
+      "usuario": "admin",
+      "accion": "actualizar_precio",
+      "producto_id": 8,
+      "campo": "precio",
+      "valor_anterior": 643.6,
+      "valor_nuevo": 69.99,
+      "fecha": "2025-12-05 12:08:50"
+    },
+    {
+      "usuario": "admin",
+      "accion": "actualizar_precio",
+      "producto_id": 3,
+      "campo": "precio",
+      "valor_anterior": 402.56,
+      "valor_nuevo": 299.99,
+      "fecha": "2025-12-05 12:13:45"
+    },
+    {
+      "usuario": "admin",
+      "accion": "actualizar_precio",
+      "producto_id": 4,
+      "campo": "precio",
+      "valor_anterior": 1365.47,
+      "valor_nuevo": 5.99,
+      "fecha": "2025-12-05 12:13:56"
+    },
+    {
+      "usuario": "admin",
+      "accion": "actualizar_precio",
+      "producto_id": 7,
+      "campo": "precio",
+      "valor_anterior": 1385.95,
+      "valor_nuevo": 29.99,
+      "fecha": "2025-12-05 12:25:13"
+    },
+    {
+      "usuario": "admin",
+      "accion": "actualizar_precio",
+      "producto_id": 299,
+      "campo": "precio",
+      "valor_anterior": 1105.61,
+      "valor_nuevo": 599.99,
+      "fecha": "2025-12-05 12:32:58"
+    },
+    {
+      "usuario": "admin",
+      "accion": "actualizar_precio",
+      "producto_id": 299,
+      "campo": "precio",
+      "valor_anterior": 599.99,
+      "valor_nuevo": 599.99,
+      "fecha": "2025-12-05 12:33:05"
+    },
+    {
+      "usuario": "admin",
+      "accion": "actualizar_precio",
+      "producto_id": 299,
+      "campo": "precio",
+      "valor_anterior": 599.99,
+      "valor_nuevo": 599.99,
+      "fecha": "2025-12-05 12:33:06"
+    },
+    {
+      "usuario": "admin",
+      "accion": "actualizar_precio",
+      "producto_id": 299,
+      "campo": "precio",
+      "valor_anterior": 599.99,
+      "valor_nuevo": 599.99,
+      "fecha": "2025-12-05 12:33:07"
+    },
+    {
+      "usuario": "admin",
+      "accion": "actualizar_precio",
+      "producto_id": 5,
+      "campo": "precio",
+      "valor_anterior": 670.19,
+      "valor_nuevo": 199.99,
+      "fecha": "2025-12-05 12:33:27"
+    },
+    {
+      "usuario": "admin",
+      "accion": "actualizar_stock",
+      "producto_id": 989,
+      "campo": "stock",
+      "valor_anterior": 252,
+      "valor_nuevo": 55,
+      "fecha": "2025-12-05 12:34:23"
+    },
+    {
+      "usuario": "admin",
+      "accion": "actualizar_precio",
+      "producto_id": 11,
+      "campo": "precio",
+      "valor_anterior": 792.86,
+      "valor_nuevo": 1199.99,
+      "fecha": "2025-12-05 12:37:29"
+    },
+    {
+      "usuario": "admin",
+      "accion": "actualizar_stock",
+      "producto_id": 115,
+      "campo": "stock",
+      "valor_anterior": 235,
+      "valor_nuevo": 12,
+      "fecha": "2025-12-05 13:22:01"
+    },
+    {
+      "usuario": "admin",
+      "accion": "actualizar_precio",
+      "producto_id": 777,
+      "campo": "precio",
+      "valor_anterior": 180.27,
+      "valor_nuevo": 249.99,
+      "fecha": "2025-12-05 13:22:48"
+    },
+    {
+      "usuario": "admin",
+      "accion": "actualizar_stock",
+      "producto_id": 55,
+      "campo": "stock",
+      "valor_anterior": 291,
+      "valor_nuevo": 34,
+      "fecha": "2025-12-19 12:20:25"
+    },
+    {
+      "usuario": "admin",
+      "accion": "actualizar_precio",
+      "producto_id": 340,
+      "campo": "precio",
+      "valor_anterior": 1370.07,
+      "valor_nuevo": 99.0,
+      "fecha": "2025-12-20 15:25:35"
+    },
+    {
+      "usuario": "admin",
+      "accion": "actualizar_stock",
+      "producto_id": 550,
+      "campo": "stock",
+      "valor_anterior": 201,
+      "valor_nuevo": 50,
+      "fecha": "2025-12-20 15:26:26"
+    }
+  ]
+}
