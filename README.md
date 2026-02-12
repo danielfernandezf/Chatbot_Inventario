@@ -68,7 +68,7 @@ Desarrollado sobre **Streamlit** para ofrecer un panel de control unificado que 
     ```
 
 4.  **Configuración de Variables de Entorno:**
-    Cree un archivo `.env` en la raíz del proyecto basándose en el archivo `.env.template` proporcionado.
+    Cree un archivo `.env` en la raíz del proyecto basándose en el archivo `.env.plantilla` proporcionado.
     ```env
     GITHUB_TOKEN=su_token_aqui
     ```
@@ -96,7 +96,9 @@ El sistema incluye una configuración inicial de usuarios para facilitar la eval
 * `interfaz.py`: Punto de entrada de la aplicación y lógica de frontend.
 * `tools/`: Módulos auxiliares para manejo de archivos, reportes y lógica de negocio.
 * `roles_config.py`: Definición estática de matrices de permisos.
-* `data/`: Almacenamiento local (productos, usuarios, historial).
+* `productos.json`: Base de datos de productos.
+* `usuarios.json`: Usuarios y roles.
+* `historial.json`: Log de auditoría.
 
 ---
 Autor: **Daniel Fernández**
